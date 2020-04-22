@@ -1,0 +1,38 @@
+<!DOCTYPE html>  
+<html>   
+<head>  
+<meta charset="utf-8" >  
+<title>Άσκηση 4- Έλεγχος εγκυρότητας</title>  
+ 
+ <script type="text/javascript">
+function myFunction() {
+    var x, text;
+
+    // Get the value of the input field with id="numb"
+    x = document.getElementById("arithmos").value;
+
+    // If x is Not a Number or less than one or greater than 100
+    if (isNaN(x) || x >100|| x <1) {
+        text = "Δέν είναι έγκυρος";
+    } else {
+        text = "ΟΚ!";
+    }
+    document.getElementById("apotelesma").innerHTML = text;
+}
+</script>
+</head>  
+<body>  
+
+<p>Πληκτρολογήστε ένα αριθμό μεταξύ 1 και 100:</p>
+<form>
+<input id="arithmos">
+
+<button type="button" onclick="myFunction()">Κάνε έλεγχο!</button>
+</form>
+<p id="apotelesma"></p>
+
+
+
+
+</body>
+</html> 
