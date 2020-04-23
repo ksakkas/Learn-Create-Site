@@ -41,7 +41,10 @@
   <h1> Java Script </h1>
   <ul>
        <li> <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%91%CF%83%CE%BA%CE%AE%CF%83%CE%B5%CE%B9%CF%82%20HTML%2C%20CSS%2C%20JS/%CE%86%CF%83%CE%BA%CE%B7%CF%83%CE%B7%20calculate%20js.html"> 1η Άσκηση - JS Αριθμομηχανη :wink:</a></li>
-
+       <li> <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%91%CF%83%CE%BA%CE%AE%CF%83%CE%B5%CE%B9%CF%82%20HTML%2C%20CSS%2C%20JS/%CE%86%CF%83%CE%BA%CE%B7%CF%83%CE%B7%20Redirection.html"> 2η Άσκηση - JS Ανακατεύθυνση & Νέο Παράθυρο :open_mouth:</a></li>
+       <li> <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%91%CF%83%CE%BA%CE%AE%CF%83%CE%B5%CE%B9%CF%82%20HTML%2C%20CSS%2C%20JS/%CE%86%CF%83%CE%BA%CE%B7%CF%83%CE%B7%20%CE%9C%CE%9F.html"> 3η Άσκηση - JS Υπολογισμός Μ.Ο. :blush:</a></li>
+       <li> <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%91%CF%83%CE%BA%CE%AE%CF%83%CE%B5%CE%B9%CF%82%20HTML%2C%20CSS%2C%20JS/%CE%91%CF%83%CE%BA%CE%B7%CF%83%CE%B7%20%CE%9C%CE%9F2.html"> 4η Άσκηση - JS Υπολογισμός Μ.Ο. Τετραμήνων :smiley:</a></li>
+       <li> <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%91%CF%83%CE%BA%CE%AE%CF%83%CE%B5%CE%B9%CF%82%20HTML%2C%20CSS%2C%20JS/%CE%86%CF%83%CE%BA%CE%B7%CF%83%CE%B7%20%CE%A0%CE%BF%CF%83%CE%BF%CF%83%CF%84.html"> 5η Άσκηση - JS Ποσοστιαία Άυξηση :heart_eyes: :open_mouth:</a></li>
   
   </ul>
 </body>
