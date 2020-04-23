@@ -47,10 +47,18 @@
     <h1></h1>
     
  <h1> PHP</h1>
- <p><?php  // PHP code goes here ?></p>
  <ul>
+       <li> <?php  // PHP code goes here ?></li>
        <li> <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/PHP/echo.php"> 1η Άσκηση - echo :blush:</a></li>
-       <li> <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/PHP/echo.php"> 1η Άσκηση - echo :blush:</a></li>
+       <li> <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/PHP/echos.php"> 2η Άσκηση - echo & html :blush:</a></li>
+         <li> <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/PHP/echoss.php"> 3η Άσκηση - echo & Μεταβλητές :blush:</a></li>
+       <li> <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/PHP/sum.php"> 4η Άσκηση - Πρόσθεση μεταβλητών :smirk:</a></li>
+         <li> <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/PHP/form%20for%20php.html"> 5η Άσκηση - Φόρμα για PHP :smirk:</a></li>
+           <li> <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/PHP/form%20for%20php%20(css%20%26%20js).html"> 6η Άσκηση - Φόρμα για PHP με CSS & JS :heart_eyes:</a></li>
+             <li> <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/PHP/php%20for%20form.php"> 7η Άσκηση - PHP για Φόρμα (POST) :heart_eyes:</a></li>
+
+
+
 </ul>
 </body>
 </html>:wink:
