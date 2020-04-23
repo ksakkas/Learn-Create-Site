@@ -27,6 +27,9 @@
   
   <h1> CSS </h1>
    <ul>
+       <li> <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%94%CE%B9%CE%B1%CF%86%CE%AC%CE%BD%CE%B5%CE%B9%CE%B5%CF%82%20HTML%2C%20CSS%2C%20JS%2C%20PHP/3%CE%BF%20%CE%95%CF%81%CE%B3.pdf">Εισαγωγή στην CSS </a>:eyes:</li>
+       <li> <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%94%CE%B9%CE%B1%CF%86%CE%AC%CE%BD%CE%B5%CE%B9%CE%B5%CF%82%20HTML%2C%20CSS%2C%20JS%2C%20PHP/4%CE%BF%20%CE%95%CF%81%CE%B3.pdf">Βασικά στην CSS </a>:eyes:</li>
+
      <li> <a href="https://github.com/ksakkas/Learn-HTML/blob/master/%CE%91%CF%83%CE%BA%CE%AE%CF%83%CE%B5%CE%B9%CF%82%20HTML%2C%20CSS%2C%20JS/%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%B7%CE%BD%20CSS.html"> 1η Άσκηση - Εισαγωγή στην CSS </a></li>
      <li> <a href="https://github.com/ksakkas/Learn-HTML/blob/master/%CE%91%CF%83%CE%BA%CE%AE%CF%83%CE%B5%CE%B9%CF%82%20HTML%2C%20CSS%2C%20JS/%CE%86%CF%83%CE%BA%CE%B7%CF%83%CE%B7%20css%202.html"> 2η Άσκηση - CSS Class </a></li>
    <li> <a href="https://github.com/ksakkas/Learn-HTML/blob/master/%CE%91%CF%83%CE%BA%CE%AE%CF%83%CE%B5%CE%B9%CF%82%20HTML%2C%20CSS%2C%20JS/%CE%86%CF%83%CE%BA%CE%B7%CF%83%CE%B7%20img%20back.html"> 3η Άσκηση - Img Backround </a></li>
