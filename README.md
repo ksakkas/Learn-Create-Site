@@ -40,8 +40,9 @@
   
   <h1> Java Script </h1>
   <ul>
-  
+       <li> <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%91%CF%83%CE%BA%CE%AE%CF%83%CE%B5%CE%B9%CF%82%20HTML%2C%20CSS%2C%20JS/%CE%86%CF%83%CE%BA%CE%B7%CF%83%CE%B7%20calculate%20js.html"> 1η Άσκηση - JS Αριθμομηχανη :wink:</a></li>
+
   
   </ul>
 </body>
-</html>
+</html>:wink:
