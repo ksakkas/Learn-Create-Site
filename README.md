@@ -47,9 +47,7 @@
     <h1></h1>
     
  <h1> PHP</h1>
- ###### <?php  // PHP code goes here ?>####
  <ul>
-    
    <li> <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/PHP/echo.php"> 1η Άσκηση - echo :blush:</a></li>
        <li> <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/PHP/echos.php"> 2η Άσκηση - echo & html :blush:</a></li>
          <li> <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/PHP/echoss.php"> 3η Άσκηση - echo & Μεταβλητές :blush:</a></li>
