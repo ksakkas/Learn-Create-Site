@@ -52,6 +52,9 @@
        <li> <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%91%CF%83%CE%BA%CE%AE%CF%83%CE%B5%CE%B9%CF%82%20HTML%2C%20CSS%2C%20JS/%CE%86%CF%83%CE%BA%CE%B7%CF%83%CE%B7%20%CE%9C%CE%9F.html"> 3η Άσκηση - JS Υπολογισμός Μ.Ο. :blush:</a></li>
        <li> <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%91%CF%83%CE%BA%CE%AE%CF%83%CE%B5%CE%B9%CF%82%20HTML%2C%20CSS%2C%20JS/%CE%91%CF%83%CE%BA%CE%B7%CF%83%CE%B7%20%CE%9C%CE%9F2.html"> 4η Άσκηση - JS Υπολογισμός Μ.Ο. Τετραμήνων :smiley:</a></li>
        <li> <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%91%CF%83%CE%BA%CE%AE%CF%83%CE%B5%CE%B9%CF%82%20HTML%2C%20CSS%2C%20JS/%CE%86%CF%83%CE%BA%CE%B7%CF%83%CE%B7%20%CE%A0%CE%BF%CF%83%CE%BF%CF%83%CF%84.html"> 5η Άσκηση - JS Ποσοστιαία Άυξηση :heart_eyes: :open_mouth:</a></li>
+         <li> <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%91%CF%83%CE%BA%CE%AE%CF%83%CE%B5%CE%B9%CF%82%20HTML%2C%20CSS%2C%20JS/%CE%86%CF%83%CE%BA%CE%B7%CF%83%CE%B7%20temp.html"> 6η Άσκηση - JS Μετατροπή Θερμοκρασίας :heart_eyes: :open_mouth:</a></li>
+         <li> <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%91%CF%83%CE%BA%CE%AE%CF%83%CE%B5%CE%B9%CF%82%20HTML%2C%20CSS%2C%20JS/%CE%86%CF%83%CE%BA%CE%B7%CF%83%CE%B7%20%CE%88%CE%BB%CE%B5%CE%B3%CF%87%CE%BF%CF%82%20%CE%91%CF%81%CE%B9%CE%B8%CE%BC.html"> 7η Άσκηση - JS Έλεγχος Εγκυρότητας Αριθμών :heart_eyes: :open_mouth:</a></li>
+
     </ul>
     <h1></h1>
     
