@@ -73,6 +73,8 @@
            <li> <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/PHP/form%20for%20php%20(css%20%26%20js).html"> 6η Άσκηση - Φόρμα για PHP με CSS & JS :heart_eyes:</a></li>
              <li> <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/PHP/php%20for%20form.php"> 7η Άσκηση - PHP για Φόρμα (POST) :heart_eyes:</a></li>
              <li> <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/PHP/php%20for%20form.php"> 8η Άσκηση - Εύρεση Μικρότερου Αριθμού :heart_eyes:</a></li>
+             <li> <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/PHP/form%20for%20mail.html"> 9η Άσκηση - Φόρμα για E-mail :heart_eyes:</a></li>
+             <li> <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/PHP/phpformail.php"> 10η Άσκηση - PHP για E-mail :heart_eyes:</a></li>
 
 
 
