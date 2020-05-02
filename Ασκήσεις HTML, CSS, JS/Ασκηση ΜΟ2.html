@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+</title>
+</head>
+<body>
+<div style="display: table; margin:30pt 70pt;"> 
+<pre>    Α τετράμηνο: <input type="text" id="b1" value=0></pre>  
+<pre>    Β τετράμηνο: <input type="text" id="b2" value=0></pre>  
+<pre>Γραπτή εξέταση: <input type="text" id="b3" value=0></pre>  
+<br>
+<!-- δημιουργεί κουμπί -->
+<button onclick="document.getElementById('demo').innerHTML ='Μέσος Όρος: '+mOros();">Υπολογισμός Μέσου Όρου</button><br>
+<p id="demo"></p>
+<br>
+</div>
+
+<!-- κώδικας javascript -->
+<script>
+function mOros(){
+var mo = (parseInt(document.getElementById('b1').value) + 
+parseInt(document.getElementById('b2').value)
++ parseInt(document.getElementById('b3').value) )/3;
+//ορίζουμε σε 2 το πλήθος δεκαδικών ψηφίων στο αποτέλεσμα mo
+var mo = mo.toFixed(2); 
+return mo;
+}
+</script>
+</body>
+</html>

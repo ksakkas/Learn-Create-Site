@@ -1,0 +1,111 @@
+<html>
+<head>
+<style type="text/css">
+body{
+	background-color: #99ccff;
+	color: white;
+}		
+input{
+		text-align: center;
+		font-weight: bold;
+}
+div{
+	background-color: #0000ff;
+	width: 500;
+	height: 300;
+	border-radius: 20px;
+}
+table,td{
+height: 50;
+}
+.button {
+  background-color: #f44336;
+  border: none;
+  color: white;
+  padding: 8px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 6px;
+   font-weight: bold;
+
+}
+</style>
+<script>
+function CalcSum(a,b) {
+sum = Number(a)*Number(b)/100
+return sum
+}
+
+function CalcSum2(a,b) {
+sum2 = Number(a) + sum
+return sum2
+}
+
+function Calculate() {
+x = document.getElementById('txt1').value
+y = document.getElementById('txt2').value
+if(x == "" || (x>'a' && x<'z') || (x>'A' && x<'Z')) {
+alert("Παρακαλώ συμπληρώστε σωστά το πεδίο: Αρχικό Ποσό")                              
+}
+else if(y == "" || (x>'a' && x<'z') || (x>'A' && x<'Z')) {
+alert("Παρακαλώ συμπληρώστε σωστά το πεδίο: Ποσοστό %")  
+}
+else {
+sum = CalcSum(x, y)
+sum2 = CalcSum2(x, y)
+document.getElementById('res').value = sum
+document.getElementById('res2').value = sum2
+} 
+}
+</script>
+</head>
+
+<body>
+	<h1 style="font-family: calibri; color: red; text-align: center"><b style="color:#cc0000">Εργαστήριο </b><b style="color: black">Π&ΑΔ </b></h1>
+	<center>
+	
+
+	<div>
+<form>
+	<table style="font-size: 20px; font-family: calibri">
+	<tr>
+		<td style="font-size: 25px;"><b>Αρχικό Ποσό:</b></td>
+		<td> </td>
+		<td></td>
+		<td><input type="text" id="txt1" align="center"></td>
+	</tr>
+	<tr>
+		<td style="font-size: 25px;"><b>Ποσοστό %:</b></td>
+		<td> </td>
+		<td></td>
+		<td><input type="text" id="txt2" align="center"></td>
+	</tr>
+
+	<tr>
+		<td style="font-size: 25px;"><b>Ποσοστιαία <br> Άυξηση:</b></td>
+		<td></td>
+		<td></td>
+		<td><input type="text" id="res" align="center"></td>
+	</tr>
+
+	<tr>
+		<td style="font-size: 25px;"><b>Τελικό Ποσό:</b></td>
+		<td> </td>
+		<td></td>
+		<td><input type="text" id="res2"></td>
+	</tr><br>
+	<tr>
+		<td colspan="8" align ="center" >
+	<input class="button" type="button" value="Υπολογισμός...." onClick="Calculate()">
+	</td>
+	</tr>
+</table>
+</form>
+</div>
+</center>
+</body>
+</html>

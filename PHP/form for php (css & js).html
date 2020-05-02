@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta charset="UTF-8">
+
+	<style type="text/css">
+
+		input[required]
+		{
+			background: gray;
+		}  
+		input[required]:valid{
+			background:  green;
+		}  
+		input[type='email']:invalid{
+			background: red;
+		}
+	</style>
+
+
+
+</head>
+<body>
+<form action="address.php" method="post">
+	<label for="name">Name:</label><br>
+
+	<input type="text" id="name" name="yourname" required><br><br>
+	<label for="mail">E-mail:</label><br>
+	<input type="email" id="mail" name="ymail" placeholder="you@some.com"><br><br>
+	<label for="addr">Addr:</label><br>
+
+	<input type="text" id="addr" name="yaddr" placeholder="οδός αριθμός"><br><br>
+	<input type="submit" name="submit" id="btn" value="send">
+
+	<script>
+	function CheckMe() {
+	if (document.getElementById('name').value==="R") {  
+		alert("Γειά σου R"); }
+	else {
+	alert("Προσπαθήστε ξανά!!")
+	}
+	} document.getElementById('btn').onclick= CheckMe;
+	</script>
+
+</form>
+</body>
+</html>

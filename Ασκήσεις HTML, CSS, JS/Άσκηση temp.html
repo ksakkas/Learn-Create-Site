@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>form</title>
+
+<script type="text/javascript">
+function KelSeFar()  
+{
+	x = document.getElementById("kelsiou").value;//x <--value(kelisiou)
+	document.getElementById("faren").value = x * 9/5+32;  //faren = ...
+}
+
+function FarSeKel()   
+{   
+     y = document.getElementById("faren").value;   
+	document.getElementById("kelsiou").value = (y-32)*5/9;  
+} 
+</script>
+</head>
+<body>
+<form>
+Θερμοκρασία Κελσίου:
+<input type="text" id="kelsiou"><br>
+<input type="button" onClick="KelSeFar()" Value="Μετατροπή σε Φαρενάιτ">  
+<input type="button" onClick="FarSeKel()" Value="Μετατροπή σε Κελσίου" > <br ></br>
+Θερμοκρασία Φαρενάιτ: <input type="text" id="faren" ><br>  <br>
+</form>
+
+
+
+
+</body>
+</html>
