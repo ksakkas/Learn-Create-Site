@@ -1,0 +1,6 @@
+* HTML CSS Support
+
+* HTML Snippets
+
+* Extension: HTML Preview
+Toggle Preview - ctrl+shift+v or cmd+shift+v
