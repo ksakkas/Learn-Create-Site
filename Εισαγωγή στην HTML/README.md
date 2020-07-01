@@ -1,3 +1,4 @@
+
 <html>
 <body>
 <h1> Learn HTML-CSS-JS-PHP-SQL-DB</h1>
@@ -9,9 +10,15 @@
 <h1>Εισαγωγή στην HTML</h1>
 <ul>
 <li><a href="basic_1.html" target="_blank">Βασικά Στοιχεία της HTML </a></li>
+<li><a href="ahref.html">Σύνδεσμος (Link)</a></li>
+<li><a href="img.html">Εικόνα</a></li>
+<li><a href="img_with_size.html">Εικόνα με συγκεκριμένο πλάτος και ύψος</a></li>
+<li><a href="pre.html">Προσχηματισμένο κείμενο</a></li>
+<li><a href="head_and_body.html">Head και Body μέρος</a></li>
+<li><a href="hr.html">Οριζόντια γραμμή</a></li>
+<li><a href="style_color.html">Χρώμα γραμματοσειράς</a></li>
 
 
-<li><a href="">Βασικά Στοιχεία της HTML </a></li>
 
 </ul>
 </body>
