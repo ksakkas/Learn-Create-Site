@@ -10,7 +10,7 @@
 <ul>
 <li><a href="/Εισαγωγή στην HTML/basic_1.html" target="_blank">Βασικά Στοιχεία της HTML </a></li>
 
-* [basic_1.html](./Εισαγωγή στην HTML/basic_1.html)
+* [basic_1.html](./basic_1.html)
 
 <li><a href="">Βασικά Στοιχεία της HTML </a></li>
 
