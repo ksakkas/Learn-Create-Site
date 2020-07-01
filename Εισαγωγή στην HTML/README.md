@@ -1,6 +1,3 @@
-* [hi](./hi.c)   
-
-
 <html>
 <body>
 <h1> Learn HTML-CSS-JS-PHP-SQL-DB</h1>
