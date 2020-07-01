@@ -8,7 +8,7 @@
 
 <h1>Εισαγωγή στην HTML</h1>
 <ul>
-<li><a href="/Εισαγωγή στην HTML/basic_1.html" target="_blank">Βασικά Στοιχεία της HTML </a></li>
+<li><a href="basic_1.html" target="_blank">Βασικά Στοιχεία της HTML </a></li>
 
 
 <li><a href="">Βασικά Στοιχεία της HTML </a></li>
