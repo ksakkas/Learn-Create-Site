@@ -11,7 +11,7 @@
 
 <li><a href="./Code greek/style_color.html" target="_blank">Χρώμα κειμένου </a></li>
 <li><a href="./Code greek/background_color.html" target="_blank">Χρώμα φόντου </a></li>
-<li><a href="./Code greek/css_color.html" target="_blank">CSS παραδείγματα </a></li>
+<li><a href="./Code greek/css.html" target="_blank">CSS παραδείγματα </a></li>
 <li><a href="./Code greek/styles.css" target="_blank">Αρχείο CSS </a></li>
 
 
