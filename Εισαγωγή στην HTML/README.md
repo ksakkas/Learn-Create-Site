@@ -32,7 +32,7 @@
 <li><a href="./Code greek/sub.html">Στυλ ύψωσης σε δύναμη (sub) σε παράγραφο </a></li>
 <li><a href="./Code greek/sup.html">Στυλ δείκτη (sup) σε παράγραφο </a></li>
 <li><a href="./Code greek/q.html">Εισαγωγικά (q) σε παράγραφο </a></li>
-<li><a href="./Code greek/abbr.html">Συντομογραφία (abbr) σε παράγραφο </a> - <a href="./Code greek/abbr.md">code</a></li>
+<li><a href="./Code greek/abbr.html">Συντομογραφία (abbr) σε παράγραφο </a> - <a href="./Code greek/abbr">code</a></li>
 <li><a href="./Code greek/abbr.html">Σχόλια <!-- --></a></li>
 
 
