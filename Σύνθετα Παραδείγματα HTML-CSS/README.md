@@ -9,7 +9,7 @@
 <h1>Σύνθετα Παραδείγματα HTML/CSS</h1>
 <ul>
 
-<li><a href="./Code greek/basic_1.html" target="_blank">Βασικά Στοιχεία της HTML </a></li>
+<li><a href="./Code greek/image_link.html" target="_blank">Χάρτης εικόνων</a></li>
 
 </ul>
 </body>
