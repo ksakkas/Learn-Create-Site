@@ -34,6 +34,10 @@
 <li><a href="./Code greek/q.html">Εισαγωγικά (q) σε παράγραφο </a></li>
 <li><a href="./Code greek/abbr.html">Συντομογραφία (abbr) σε παράγραφο </a> -- <a href="./Code greek/abr"> code </a></li>
 <li><a href="./Code greek/abbr.html">Σχόλια</a></li>
+<li><a href="./Code greek/border_color.html">Περίγραμμα με χρώμα και πάχος</a></li>
+<li><a href="./Code greek/hsl_color.html">HSL χρώμα (απόχρωση, κορεσμός, φωτεινότητα)</a></li>
+<li><a href="./Code greek/css.html">Εισαγωγή στην CSS</a></li>
+<li><a href="./Code greek/styles.css">Αρχείο style CSS</a></li>
 
 </ul>
 </body>
