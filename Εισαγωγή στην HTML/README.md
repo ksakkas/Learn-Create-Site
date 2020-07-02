@@ -26,7 +26,12 @@
 <li><a href="./Code greek/italics.html">Italic σε παράγραφο </a></li>
 <li><a href="./Code greek/em.html">Emphasis(em) σε παράγραφο </a></li>
 <li><a href="./Code greek/small.html">Small σε παράγραφο </a></li>
-<li><a href="./Code greek/mark.html">Mark σε παράγραφο </a></li>
+<li><a href="./Code greek/mark.html">Μαρκάρισμα (mark) σε παράγραφο </a></li>
+<li><a href="./Code greek/del.html">Στυλ διαγραφής (del) σε παράγραφο </a></li>
+<li><a href="./Code greek/ins.html">Στυλ εισαγωγής (ins) σε παράγραφο </a></li>
+<li><a href="./Code greek/sub.html">Στυλ ύψωσης σε δύναμη (sub) σε παράγραφο </a></li>
+<li><a href="./Code greek/sup.html">Στυλ δείκτη (sup) σε παράγραφο </a></li>
+<li><a href="./Code greek/q.html">Εισαγωγικά (q) σε παράγραφο </a></li>
 
 
 
