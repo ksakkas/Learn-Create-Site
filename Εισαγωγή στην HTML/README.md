@@ -23,6 +23,10 @@
 <li><a href="./Code greek/text_align.html">Στοίχιση κειμένου </a></li>
 <li><a href="./Code greek/bold.html">Bold σε παράγραφο </a></li>
 <li><a href="./Code greek/strong.html">Strong σε παράγραφο </a></li>
+<li><a href="./Code greek/italics.html">Italic σε παράγραφο </a></li>
+<li><a href="./Code greek/em.html">Emphasis(em) σε παράγραφο </a></li>
+<li><a href="./Code greek/small.html">Small σε παράγραφο </a></li>
+<li><a href="./Code greek/mark.html">Mark σε παράγραφο </a></li>
 
 
 
