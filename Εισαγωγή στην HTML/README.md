@@ -39,6 +39,8 @@
 <li><a href="./Code greek/mailto.html">Αποστολή email</a></li>
 <li><a href="./Code greek/button_link.html">Κουμπί με σύνδεσμο</a></li>
 <li><a href="./Code greek/image_link.html">Εικόνα με σύνδεσμο</a></li>
+<li><a href="./Code greek/img_background.html">Εικόνα για φόντο</a></li>
+
 </ul>
 </body>
 </html>
