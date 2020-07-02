@@ -36,9 +36,9 @@
 <li><a href="./Code greek/abbr.html">Σχόλια</a></li>
 <li><a href="./Code greek/border_color.html">Περίγραμμα με χρώμα και πάχος</a></li>
 <li><a href="./Code greek/hsl_color.html">HSL χρώμα (απόχρωση, κορεσμός, φωτεινότητα)</a></li>
-<li><a href="./Code greek/css.html">Εισαγωγή στην CSS</a></li>
-<li><a href="./Code greek/styles.css">Αρχείο style CSS</a></li>
-
+<li><a href="./Code greek/mailto.html">Αποστολή email</a></li>
+<li><a href="./Code greek/button_link.html">Κουμπί με σύνδεσμο</a></li>
+<li><a href="./Code greek/image_link.html">Εικόνα με σύνδεσμο</a></li>
 </ul>
 </body>
 </html>
