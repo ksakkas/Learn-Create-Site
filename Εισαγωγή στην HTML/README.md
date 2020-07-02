@@ -33,8 +33,8 @@
 <li><a href="./Code greek/sup.html">Στυλ δείκτη (sup) σε παράγραφο </a></li>
 <li><a href="./Code greek/q.html">Εισαγωγικά (q) σε παράγραφο </a></li>
 <li><a href="./Code greek/abbr.html">Συντομογραφία (abbr) σε παράγραφο </a></li>
-<li><a href="./Code greek/abbr.html">Σχόλια <!-- --></a></li>
-
+<li><a href="./Code greek/abbr.html">Σχόλια</a></li>
+  
 
 
 </ul>
