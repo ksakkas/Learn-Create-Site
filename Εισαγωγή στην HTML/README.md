@@ -18,6 +18,11 @@
 <li><a href="./Code greek/hr.html">Οριζόντια γραμμή</a></li>
 <li><a href="./Code greek/style_color.html">Χρώμα γραμματοσειράς</a></li>
 <li><a href="./Code greek/background_color.html">Χρώμα γραμματοσειράς και φόντο</a></li>
+<li><a href="./Code greek/font_family.html">Στυλ γραμματοσειράς (πχ Calibri)</a></li>
+<li><a href="./Code greek/font_size.html">Μέγεθος γραμματοσειράς</a></li>
+<li><a href="./Code greek/text_align.html">Στοίχιση κειμένου </a></li>
+<li><a href="./Code greek/bold.html">Bold σε παράγραφο </a></li>
+<li><a href="./Code greek/strong.html">Strong σε παράγραφο </a></li>
 
 
 
