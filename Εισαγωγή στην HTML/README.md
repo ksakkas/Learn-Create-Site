@@ -17,7 +17,7 @@
 <li><a href="head_and_body.html">Head και Body μέρος</a></li>
 <li><a href="hr.html">Οριζόντια γραμμή</a></li>
 <li><a href="style_color.html">Χρώμα γραμματοσειράς</a></li>
-<li><a href="/Code greek/background_color.html">Χρώμα γραμματοσειράς και φόντο</a></li>
+<li><a href="./Code greek/background_color.html">Χρώμα γραμματοσειράς και φόντο</a></li>
 
 
 
