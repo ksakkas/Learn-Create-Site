@@ -1,0 +1,40 @@
+<!--Inline - χρησιμοποιώντας το styleχαρακτηριστικό μέσα σε στοιχεία HTML
+Internal (Εσωτερικό) - χρησιμοποιώντας ένα <style>στοιχείο στην <head>ενότητα
+External (Εξωτερικό) - χρησιμοποιώντας ένα <link> στοιχείο για σύνδεση με ένα εξωτερικό αρχείο CSS-->
+
+<!--Inline CSS-->
+<h1 style="color:blue;">Επικεφαλίδα με Inline CSS</h1>
+<h1 style="color:rgb(51, 153, 102);">Επικεφαλίδα με Inline CSS</h1>
+<h1 style="color:#0066cc;">Επικεφαλίδα με Inline Inline CSS</h1>
+<br>
+
+<!--Internal CSS-->
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: #ccffcc;}
+h1   {color: #cc0066;}
+p    {color: #0033cc;}
+</style>
+</head>
+<body>
+
+<h1>Επικεφαλίδα με Inline Internal CSS </h1>
+<p>Παράγραφος με Internal CSS </p>
+</body>
+</html>
+
+<!--External CSS-->
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h1>Επικεφαλίδα με Internal CSS</h1>
+<p>Παράγραφος με Internal CSS</p>
+
+</body>
+</html>
