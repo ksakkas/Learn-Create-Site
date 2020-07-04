@@ -40,6 +40,11 @@
 <li><a href="./Code greek/button_link.html">Κουμπί με σύνδεσμο</a></li>
 <li><a href="./Code greek/image_link.html">Εικόνα με σύνδεσμο</a></li>
 <li><a href="./Code greek/img_background.html">Εικόνα για φόντο</a></li>
+<li><a href="./Code greek/table.html">Πίνακας</a></li>
+<li><a href="./Code greek/list.html">Λίστες</a></li>
+<li><a href="./Code greek/div.html">Div</a></li>
+<li><a href="./Code greek/span.html">Span</a></li>
+<li><a href="./Code greek/class.html">Κλάσεις (3 τρόποι)</a></li>
 
 </ul>
 </body>
