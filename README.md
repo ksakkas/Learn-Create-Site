@@ -22,7 +22,11 @@
  <!-- <h1><a href="Εισαγωγή στην HTML" target="_blank">Εισαγωγή στην HTML</a></h1>
   
 <h1> HTML </h1>-->
- <h1 class="ml2">Εισαγωγή στην HTML</h1>
+<ul>
+ <li><h1 class="ml2"><a href="Εισαγωγή στην HTML" target="_blank">Εισαγωγή στην HTML</a></h1></li>
+ </ul>
+
+
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
 
@@ -50,4 +54,4 @@ anime.timeline({loop: true})
   });
 </script>
 </body>
-</html>:wink:
+</html>
