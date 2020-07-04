@@ -3,7 +3,7 @@
 <style>
 .ml2 {
   font-weight: 900;
-  font-size: 3.5em;
+  font-size: 2.5em;
 }
 .ml2 .letter {
   display: inline-block;
@@ -19,7 +19,6 @@
   <h1></h1>
   
   
- <h1><a href="Εισαγωγή στην HTML" target="_blank">Εισαγωγή στην HTML</a></h1>
 
 <ul>
  <li><a href="Εισαγωγή στην HTML" target="_blank"><h1 class="ml2">Εισαγωγή στην HTML</h1></a></li>
