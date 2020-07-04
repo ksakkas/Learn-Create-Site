@@ -19,9 +19,8 @@
   <h1></h1>
   
   
- <!-- <h1><a href="Εισαγωγή στην HTML" target="_blank">Εισαγωγή στην HTML</a></h1>
-  
-<h1> HTML </h1>-->
+ <h1><a href="Εισαγωγή στην HTML" target="_blank">Εισαγωγή στην HTML</a></h1>
+
 <ul>
  <li><h1 class="ml2"><a href="Εισαγωγή στην HTML" target="_blank">Εισαγωγή στην HTML</a></h1></li>
  </ul>
