@@ -22,7 +22,7 @@
  <h1><a href="Εισαγωγή στην HTML" target="_blank">Εισαγωγή στην HTML</a></h1>
 
 <ul>
- <li><h1 class="ml2"><a href="Εισαγωγή στην HTML" target="_blank">Εισαγωγή στην HTML</a></h1></li>
+ <li><a href="Εισαγωγή στην HTML" target="_blank"><h1 class="ml2">Εισαγωγή στην HTML</h1></a></li>
  </ul>
 
 
