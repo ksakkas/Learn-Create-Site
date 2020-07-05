@@ -18,7 +18,7 @@
   left: 0;
   height: 100%;
   width: 3px;
-  background-color: ##006666;
+  background-color: #006666;
   transform-origin: 0 50%;
 }
 .ml11 .line1 { 
