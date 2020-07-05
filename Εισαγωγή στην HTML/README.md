@@ -10,7 +10,9 @@
 <ul>
 
 <li><a href="./Code greek/basic_1.html" target="_blank">Βασικά Στοιχεία της HTML </a></li>
+<li><a href="./Code greek/meta.html" target="_blank">Η ετικέτα meta </a></li>
 <li><a href="./Code greek/ahref.html">Σύνδεσμος (Link)</a></li>
+<li><a href="./Code greek/img_path.html">Μονοπάτια (path) εικόνας</a></li>
 <li><a href="./Code greek/img.html">Εικόνα</a></li>
 <li><a href="./Code greek/img_with_size.html">Εικόνα με συγκεκριμένο πλάτος και ύψος</a></li>
 <li><a href="./Code greek/pre.html">Προσχηματισμένο κείμενο</a></li>
