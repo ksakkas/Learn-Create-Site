@@ -3,7 +3,7 @@
 <style>
 .ml11 {
   font-weight: 700;
-  font-size: 3.5em;
+  font-size: 2em;
 }
 .ml11 .text-wrapper {
   position: relative;
@@ -37,7 +37,7 @@
 <p> Κωνσταντίνος Σακκάς</p>
 <p>Copyright © 2020 Κωνσταντίνος Σακκάς. Με την επιφύλαξη παντός δικαιώματος</p>
   <h1></h1>
-
+<hr>
 <h1 class="ml11">
   <span class="text-wrapper">
     <span class="line line1"></span>
