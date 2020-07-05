@@ -12,6 +12,9 @@
 <ul>
 
 <li><a href="./Code greek/introduction_javascript.html" target="_blank">Βασικά Στοιχεία της JavaScript </a></li>
+<li><a href="./Code greek/function_and_button.html" target="_blank">Συνάρτηση στην JavaScript </a></li>
+<li><a href="./Code greek/style_in_js.html" target="_blank">Style στην JavaScript </a></li>
+<li><a href="./Code greek/img_in_js.html" target="_blank">Εικόνες στην JavaScript </a></li>
 
 </ul>
 
