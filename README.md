@@ -16,6 +16,8 @@
   <li><a href="Εισαγωγή στην HTML" target="_blank"><h2>Εισαγωγή στην HTML</h2></a></li>
   <li><a href="Εισαγωγή στην CSS" target="_blank"><h2>Εισαγωγή στην CSS</h2></a></li>
   <li><a href="Σύνθετα Παραδείγματα HTML-CSS" target="_blank"><h2>Σύνθετα Παραδείγματα HTML-CSS</h2></a></li>
+  <li><a href="Εισαγωγή στην JavaScript" target="_blank"><h2>Εισαγωγή στην JavaScript</h2></a></li>
+
 
  </ul>
 
