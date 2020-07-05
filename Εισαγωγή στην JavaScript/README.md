@@ -3,7 +3,7 @@
 <style>
 .ml11 {
   font-weight: 700;
-  font-size: 2em;
+  font-size: 1.5em;
 }
 .ml11 .text-wrapper {
   position: relative;
