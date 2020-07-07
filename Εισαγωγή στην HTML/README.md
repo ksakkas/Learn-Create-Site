@@ -8,7 +8,7 @@
 
 <h1>Εισαγωγή στην HTML</h1>
 <ul>
-
+  
 <li><a href="./Code greek/basic_1.html" target="_blank">Βασικά Στοιχεία της HTML </a></li>
 <li><a href="./Code greek/meta.html" target="_blank">Η ετικέτα meta </a></li>
 <li><a href="./Code greek/ahref.html">Σύνδεσμος (Link)</a></li>
@@ -48,6 +48,10 @@
 <li><a href="./Code greek/span.html">Span</a></li>
 <li><a href="./Code greek/class.html">Κλάσεις (3 τρόποι)</a></li>
 <li><a href="./Code greek/iframe.html">Iframe</a></li>
+<li><a href="./Code greek/layout.html">Layout</a></li>
+<li><a href="./Code greek/code_style.html">Code εμφάνιση</a></li>
+<li><a href="./Code greek/entities.html">Οντότητες (entities)</a></li>
+<li><a href="./Code greek/emoji.html">Emoji</a></li>
 
 </ul>
 </body>
