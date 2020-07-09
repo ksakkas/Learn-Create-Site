@@ -15,6 +15,15 @@
 <li><a href="./Code greek/radio_button.html" target="_blank">Φόρμα με κουκίδες (radio) </a></li>
 <li><a href="./Code greek/form_with_submit.html" target="_blank">Φόρμα με κουμπί υποβολής</a></li>
 <li><a href="./Code greek/form_dropdown.html" target="_blank">Φόρμα με drop down μενού επιλογής</a></li>
+<li><a href="./Code greek/textarea.html" target="_blank">Περιοχή κειμένου (textarea)</a></li>
+<li><a href="./Code greek/fieldset.html" target="_blank">Περίγραμμα φόρμας (fildset)</a></li>
+<li><a href="./Code greek/input_type.html" target="_blank">Όλες οι περιπτώσεις εισαγωγής (input type)</a></li>
+<li><a href="./Code greek/value_form.html" target="_blank">Φόρμα με value (προκαθορισμένη τιμή)</a></li>
+<li><a href="./Code greek/form_readonly.html" target="_blank">Φόρμα με readonly (μη τροποποιήσιμο πεδίο)</a></li>
+<li><a href="./Code greek/form_disabled.html" target="_blank">Φόρμα με disabled (πεδίο απενεργοποιήμενο)</a></li>
+<li><a href="./Code greek/form_size.html" target="_blank">Φόρμα με size (προσαρμογή με βάση το μέγεθος)</a></li>
+
+
 
 </ul>
 
