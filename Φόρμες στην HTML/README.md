@@ -22,6 +22,9 @@
 <li><a href="./Code greek/form_readonly.html" target="_blank">Φόρμα με readonly (μη τροποποιήσιμο πεδίο)</a></li>
 <li><a href="./Code greek/form_disabled.html" target="_blank">Φόρμα με disabled (πεδίο απενεργοποιήμενο)</a></li>
 <li><a href="./Code greek/form_size.html" target="_blank">Φόρμα με size (προσαρμογή με βάση το μέγεθος)</a></li>
+<li><a href="./Code greek/form_maxlength.html" target="_blank">Φόρμα με maxlength (μέγιστος αριθμός χαρακτήρων εισαγωγής)</a></li>
+<li><a href="./Code greek/form_min_max.html" target="_blank">Φόρμα με min/max (ελάχιστο/μέγιστο)</a></li>
+
 
 
 
