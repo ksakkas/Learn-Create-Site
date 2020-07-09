@@ -11,7 +11,10 @@
 
 <ul>
 
-<li><a href="./Code greek/introduction_javascript.html" target="_blank">Βασικά Στοιχεία της JavaScript </a></li>
+<li><a href="./Code greek/form.html" target="_blank">Εισαγωγή στις Φόρμες</a></li>
+<li><a href="./Code greek/radio_bullet.html" target="_blank">Φόρμα με κουκίδες (radio) </a></li>
+<li><a href="./Code greek/form_with_submit.html" target="_blank">Φόρμα με κουμπί υποβολής</a></li>
+<li><a href="./Code greek/form_dropdown.html" target="_blank">Φόρμα με drop down μενού επιλογής</a></li>
 
 </ul>
 
