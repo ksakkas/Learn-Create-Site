@@ -28,11 +28,8 @@
 <li><a href="./Code greek/form_placeholder.html" target="_blank">Φόρμα με placeholder (σύντομη υπόδειξη)</a></li>
 <li><a href="./Code greek/form_required.html" target="_blank">Φόρμα με required (προαπαιτούμενο πεδίο)</a></li>
 <li><a href="./Code greek/form_step.html" target="_blank">Φόρμα με step (βήμα)</a></li>
-
-
-
-
-
+<li><a href="./Code greek/form_datalist.html" target="_blank">Φόρμα με datalist (λίστα δεδομένων)</a></li>
+<li><a href="./Code greek/form_autocomplete.html" target="_blank">Φόρμα με auto complete (πρόβλεψη τιμής)</a></li>
 </ul>
 
 
