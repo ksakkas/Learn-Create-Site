@@ -11,7 +11,8 @@
 
 <ul>
 
-<li><a href="./Code greek/video.html" target="_blank">Εισαγωγή βίντεο</a></li>
+<li><a href="./Code greek/video.html" target="_blank">Εισαγωγή βίντεο (mp4)</a></li>
+<li><a href="./Code greek/audio.html" target="_blank">Εισαγωγή ήχου (mp3)</a></li>
 
 </ul>
 
