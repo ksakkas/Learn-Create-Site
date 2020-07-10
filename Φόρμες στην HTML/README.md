@@ -23,7 +23,12 @@
 <li><a href="./Code greek/form_disabled.html" target="_blank">Φόρμα με disabled (πεδίο απενεργοποιήμενο)</a></li>
 <li><a href="./Code greek/form_size.html" target="_blank">Φόρμα με size (προσαρμογή με βάση το μέγεθος)</a></li>
 <li><a href="./Code greek/form_maxlength.html" target="_blank">Φόρμα με maxlength (μέγιστος αριθμός χαρακτήρων εισαγωγής)</a></li>
-<li><a href="./Code greek/form_min_max.html" target="_blank">Φόρμα με min/max (ελάχιστο/μέγιστο)</a></li>
+<li><a href="./Code greek/form_min_max.html" target="_blank">Φόρμα με min/max (ελάχιστο/μέγιστο )</a></li>
+<li><a href="./Code greek/form_multiple.html" target="_blank">Φόρμα με multiple (εισαγωγή αρχείων)</a></li>
+<li><a href="./Code greek/form_placeholder.html" target="_blank">Φόρμα με placeholder (σύντομη υπόδειξη)</a></li>
+<li><a href="./Code greek/form_required.html" target="_blank">Φόρμα με required (προαπαιτούμενο πεδίο)</a></li>
+<li><a href="./Code greek/form_step.html" target="_blank">Φόρμα με step (βήμα)</a></li>
+
 
 
 
