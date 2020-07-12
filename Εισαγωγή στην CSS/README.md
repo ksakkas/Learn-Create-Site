@@ -22,7 +22,7 @@
 <li><a href="./Code greek/outline_css.html" target="_blank">Περιγράμματα με CSS </a></li>
 <li><a href="./Code greek/text_css.html" target="_blank">Κείμενο με CSS (μέρος 1)</a></li>
 <li><a href="./Code greek/text2_css.html" target="_blank">Κείμενο με CSS (μέρος 2)</a></li>
-l<li><a href="./Code greek/style_font.html" target="_blank">Κείμενο με CSS (style font)</a></li>
+<li><a href="./Code greek/style_font.html" target="_blank">Κείμενο με CSS (style font)</a></li>
 <li><a href="./Code greek/link_css.html" target="_blank">Σύνδεσμος με CSS (link css)</a></li>
 <li><a href="./Code greek/display_css.html" target="_blank">Display (απεικόνιση)</a></li>
 <li><a href="./Code greek/button_link_css.html" target="_blank">Κουμπί με σύνδεσμο CSS</a></li>
