@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<!--
+position:
+    static
+    relative
+    fixed
+    absolute
+    sticky
+-->
+<head>
+<style>
+.st {
+  position: static; /*not affected by the top, bottom, left, and right properties*/
+  border: 3px solid #cc0099;
+}
+.rel {
+  position: relative; /* top, right, bottom, and left*/
+  left: 20px;
+  border: 3px solid #cc0000;
+}
+.fx {
+  position: fixed; /*always stays in the same place even if the page is scrolled*/
+  bottom: 0; /*end of page*/
+  right: 0; /*right of page*/
+  width: 250px;
+  border: 3px solid #006600;
+}
+.abs {
+  position: absolute;/*is positioned relative to the nearest positioned ancestor*/
+  top: 100px; /*of start page*/
+  right: 0;
+  width: 280px;
+  height: 100px;
+  border: 3px solid #003399;
+}
+</style>
+</head>
+<body>
+    <div class="st">The aim of the department is to promote information science, computer systems and telecommunications, as well as their applications. 
+    The Department has modern facilities on the campus of the historic city of Arta.    </div>
+    <br>
+    <div class="rel">The aim of the department is to promote information science, computer systems and telecommunications, as well as their applications. 
+        The Department has modern facilities on the campus of the historic city of Arta.    </div>
+    <br>
+    <div class="fx">The aim of the department is to promote information science, computer systems and telecommunications, as well as their applications. 
+        The Department has modern facilities on the campus of the historic city of Arta.    </div>
+    <br>
+    <div class="abs">The aim of the department is to promote information science, computer systems and telecommunications, as well as their applications. 
+        The Department has modern facilities on the campus of the historic city of Arta.    </div>
+</body>
+</html>
