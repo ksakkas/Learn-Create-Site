@@ -15,6 +15,11 @@
 <li><a href="./Code greek/function_and_button.html" target="_blank">Συνάρτηση στην JavaScript </a></li>
 <li><a href="./Code greek/style_in_js.html" target="_blank">Style στην JavaScript </a></li>
 <li><a href="./Code greek/img_in_js.html" target="_blank">Εικόνες στην JavaScript </a></li>
+<li><a href="./Code greek/output.html" target="_blank">Έξοδος στην JasvaScript</a></li>
+<li><a href="./Code greek/statements.html" target="_blank">Δήλωσεις και Πράξεις στην JasvaScript</a></li>
+<li><a href="./Code greek/comments.html" target="_blank">Σχόλια στην JasvaScript</a></li>
+<li><a href="./Code greek/veriable.html" target="_blank">Έξοδος με μεταβλητή στην JasvaScript</a></li>
+<li><a href="./Code greek/operator.html" target="_blank">Τελεστές στην JasvaScript</a></li>
 
 </ul>
 
