@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <style>
+
+            input[type=text]{     /*will only select text fields*/
+                width: 100%;     /*the whole page*/
+                padding: 10px;   /*size input box*/
+                margin: 10px 0px; /*input box distances*/
+
+                border: 1px solid #cc0066; /*border with color for input box*/
+                border-radius: 3px; /*curvature input box*/
+
+                background-color:  #ffe6f2;
+            }   
+
+            input[type=text]:focus {  /*focus = when the input box is clicked*/
+                border: 3px solid #cc0000; 
+            }
+
+            .st{
+                color: black;
+                font-size: 20px;
+            }
+        </style>
+    </head>
+<br><br>
+<form>
+    <label for="name" class="st">Name:</label>
+    <input type="text" id="name" placeholder="give name">
+
+    <label for="am" class="st">AM:</label>
+    <input type="text" id="am" placeholder="give am">
+</form>

@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <style>
+
+            input[type=text]{     /*θα επιλέξει μόνο πεδία κειμένου*/
+                width: 100%;     /*ολόκληρη η σελίδα*/
+                padding: 10px;   /*μέγεθος κουτιού εισαγωγής*/
+                margin: 10px 0px; /*αποστάσεις κουτιών εισαγωγής*/
+
+                border: 1px solid #cc0066; /*περίγραμμα με χρώμα για το πλαίσιο εισαγωγής*/
+                border-radius: 3px; /*καμπυλότητα κουτιού εισαγωγής*/
+
+                background-color:  #ffe6f2;
+            }   
+
+            input[type=text]:focus {  /*focus = όταν κάνετε κλικ στο πλαίσιο εισαγωγής*/
+                border: 3px solid #cc0000; 
+            }
+
+            .st{
+                color: black;
+                font-size: 20px;
+            }
+        </style>
+    </head>
+<br><br>
+<form>
+    <label for="name" class="st">Όνομα:</label>
+    <input type="text" id="name" placeholder="give name">
+
+    <label for="am" class="st">AM:</label>
+    <input type="text" id="am" placeholder="give am">
+</form>
