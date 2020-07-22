@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <p id="tx"></p>
+
+        <script>
+            var x = 1;
+            switch (x) { /*select x*/
+            case 0: /*case for x = 0*/
+                text = "not ok";
+                break; /*termination*/
+            case 1: /*case for x = 1*/
+                text = "ok";
+                break; /*termination*/
+            default: /*else*/
+                text = "nothing";
+            }
+            document.getElementById("tx").innerHTML = text;
+
+        </script>
+    </body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <p id="tx"></p>
+
+        <script>
+            var x = 1;
+            switch (x) { /*επιλέγουμε το x*/
+            case 0: /*περίπτωση για x = 0*/
+                text = "οχι οκ";
+                break; /*τερματισμός*/
+            case 1: /*περίπτωση για x = 1*/
+                text = "οκ";
+                break; /*τερματισμός*/
+            default: /*αλλιώς*/
+                text = "τιποτα";
+            }
+            document.getElementById("tx").innerHTML = text;
+
+        </script>
+    </body>
+</html>
