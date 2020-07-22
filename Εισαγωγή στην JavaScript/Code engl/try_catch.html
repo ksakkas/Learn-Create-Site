@@ -1,0 +1,23 @@
+<!--
+    try {
+  Block of code to try
+}
+catch(err) {
+  Block of code to handle errors
+}
+-->
+
+<!DOCTYPE html>
+<html>
+    <body>
+        <p id="er"></p>
+        <script>
+            try {
+                adddlert("Welcome!");
+            }
+            catch(err) {
+                document.getElementById("er").innerHTML = err.message;
+            }
+        </script>
+    </body>
+</html>
