@@ -1,0 +1,48 @@
+<!--
+    try {
+  Block of code to try
+}
+catch(err) {
+  Μπλοκ κώδικα για χειρισμό σφαλμάτων
+}
+
+Η δήλωση throw σάς επιτρέπει να δημιουργήσετε ένα προσαρμοσμένο σφάλμα.
+-->
+
+<!DOCTYPE html>
+<html>
+    <body>
+        <center>
+        <input id="inp" type="text">
+        <button type="button" onclick="Function()">Κάνε κλικ</button>
+        </center>
+
+        <hr>
+
+        <p style="text-align: center;" id="er"></p>
+
+
+        <script>
+            function Function() { /*Συνάρτηση στην JS*/
+            message = document.getElementById("er"); 
+
+            var x = document.getElementById("inp").value; /*εκχωρείται στη μεταβλητή x την τιμή που καταχωρίστηκε στο πεδίο εισαγωγής*/
+
+            try {
+                if(x=="")
+                throw "κενό";
+                
+                x = Number(x); /*μετατρέπουμε το x σε αριθμό*/
+
+                if(x==0)
+                throw "μηδέν";
+                else
+                document.getElementById("er").innerHTML="Ο αριθμός είναι: " + x;
+            }
+            catch(err) {
+                message.innerHTML = "Η είσοδος είναι " + err; /*error + throw*/
+            }
+            }
+        </script>
+    </body>
+</html>

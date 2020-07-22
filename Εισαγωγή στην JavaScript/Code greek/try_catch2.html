@@ -1,0 +1,48 @@
+<!--
+    try {
+  Μπλοκ κώδικα για να δοκιμάσετε
+}
+catch(err) {
+  Block of code to handle errors
+}
+
+The throw statement allows you to create a custom error.
+-->
+
+<!DOCTYPE html>
+<html>
+    <body>
+        <center>
+        <input id="inp" type="text">
+        <button type="button" onclick="Function()">Click Me</button>
+        </center>
+
+        <hr>
+
+        <p style="text-align: center;" id="er"></p>
+
+
+        <script>
+            function Function() { /*function in js*/
+            message = document.getElementById("er"); 
+
+            var x = document.getElementById("inp").value; /*assign to the variable x the value entered in the input field*/
+
+            try {
+                if(x=="")
+                throw "empty";
+                
+                x = Number(x); /*we convert x to number*/
+
+                if(x==0)
+                throw "zero";
+                else
+                document.getElementById("er").innerHTML="The number is: " + x;
+            }
+            catch(err) {
+                message.innerHTML = "Input is " + err; /*error + throw*/
+            }
+            }
+        </script>
+    </body>
+</html>
