@@ -1,0 +1,23 @@
+<!--Η JavaScript έχει το this, το οποίο αναφέρεται στο αντικείμενο στο οποίο ανήκει-->
+<!DOCTYPE html>
+<html>
+    <body>
+        <p id="p"></p>
+        <p id="k"></p>
+
+        <script>
+            var person = {
+            firstName: "Κωνσταντίνος",
+            lastName : "Σακκάς",
+            id     : 15799,
+            fullName : function() {
+            return this.firstName + " " + this.lastName;
+            }
+        };
+
+        document.getElementById("p").innerHTML = person.fullName();
+        document.getElementById("p").innerHTML = person.firstName(); /*θα πρέπει να υπάρχει το return (επιστροφή)*/
+
+        </script>
+    </body>
+</html>

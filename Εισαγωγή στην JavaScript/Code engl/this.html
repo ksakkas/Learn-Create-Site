@@ -1,0 +1,23 @@
+<!--The JavaScript this keyword refers to the object it belongs to-->
+<!DOCTYPE html>
+<html>
+    <body>
+        <p id="p"></p>
+        <p id="k"></p>
+
+        <script>
+            var person = {
+            firstName: "Konstantinos",
+            lastName : "Sakkas",
+            id     : 15799,
+            fullName : function() {
+            return this.firstName + " " + this.lastName;
+            }
+        };
+
+        document.getElementById("p").innerHTML = person.fullName();
+        document.getElementById("p").innerHTML = person.firstName(); /*there must be a return */
+
+        </script>
+    </body>
+</html>
