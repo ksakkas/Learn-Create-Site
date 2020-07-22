@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <p id="n"></p>
+        <p id="n2"></p>
+        <p id="n3"></p>
+        <p id="n4"></p>
+        <p id="n5"></p>
+        <p id="n6"></p>
+        <p id="n7"></p>
+        <p id="n8"></p>
+        <p id="n9"></p>
+        <p id="n10"></p>
+
+
+        <script>
+            var names = ["Kostas", "Gwgw", "Maria"]; /*πίνακας ονομάτων*/
+            
+            document.getElementById("n").innerHTML = names.toString(); /*όλα τα στοιχεία του πίνακα χωρισμένα με ,*/
+        
+            document.getElementById("n2").innerHTML = names.join(" * "); /*όλα τα στοιχεία του πίνακα χωρισμένα με * */
+
+            var x = names.pop(); /*αφαιρεί το τελευταίο στοιχείο του πίνακα*/
+            document.getElementById("n3").innerHTML = x; 
+
+            names.push("Petros"); /*προσθέτει ένα στοιχείο στο τέλος ενός πίνακα*/
+            document.getElementById("n4").innerHTML = names; 
+
+            names.shift(); /*ολισθηση πίνακα, το πρώτο στοιχείο διαγράφεται*/
+            document.getElementById("n5").innerHTML = names; 
+
+            names.unshift("Kostas"); /*προσθέτει ένα στοιχείο στην αρχή του πίνακα*/
+            document.getElementById("n6").innerHTML = names; 
+
+            names[names.length]="Giannis"; /*προσσθέτει το όνομα Giannis στο τέλος του πίνακα*/
+            document.getElementById("n7").innerHTML = names; 
+
+            delete names[3]; /*διαγράφει το στοιχείο στην θέση 2[3] του πίνακα*/
+            document.getElementById("n8").innerHTML = names; 
+
+            names.sort(); /*ταξινόμηση πίνακα*/
+            document.getElementById("n9").innerHTML = names; 
+            
+            names.reverse(); /*αντίστροφος πίνακας*/
+            document.getElementById("n10").innerHTML = names; 
+
+        </script>
+    </body>
+</html>

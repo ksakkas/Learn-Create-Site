@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <p id="n"></p>
+        <p id="n2"></p>
+        <p id="n3"></p>
+        <p id="n4"></p>
+        <p id="n5"></p>
+        <p id="n6"></p>
+        <p id="n7"></p>
+        <p id="n8"></p>
+        <p id="n9"></p>
+        <p id="n10"></p>
+
+
+        <script>
+            var names = ["Kostas", "Gwgw", "Maria"]; /*array names*/
+            
+            document.getElementById("n").innerHTML = names.toString(); /*all the elements of the table with ,*/
+        
+            document.getElementById("n2").innerHTML = names.join(" * "); /*all the elements of the table with * */
+
+            var x = names.pop(); /*removes the last element of the table*/
+            document.getElementById("n3").innerHTML = x; 
+
+            names.push("Petros"); /*adds an element to the end of a table*/
+            document.getElementById("n4").innerHTML = names; 
+
+            names.shift(); /*sliding the table, the first element is deleted*/
+            document.getElementById("n5").innerHTML = names; 
+
+            names.unshift("Kostas"); /*adds an element to the beginning of the table*/
+            document.getElementById("n6").innerHTML = names; 
+
+            names[names.length]="Giannis"; /*append Giannis to names*/
+            document.getElementById("n7").innerHTML = names; 
+
+            delete names[3]; /*delete the item in position 2 [3] of the table*/
+            document.getElementById("n8").innerHTML = names; 
+
+            names.sort(); /*sort table*/
+            document.getElementById("n9").innerHTML = names; 
+            
+            names.reverse(); /*reverse table*/
+            document.getElementById("n10").innerHTML = names; 
+
+        </script>
+    </body>
+</html>
