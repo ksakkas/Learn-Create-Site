@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <p id="y"></p>
+        <p id="m"></p>
+        <p id="d"></p>
+        <p id="h"></p>
+        <p id="m"></p>
+        <p id="s"></p>
+
+        <script>
+            var d = new Date();
+            document.getElementById("y").innerHTML = d.getFullYear(); /*year*/
+            document.getElementById("m").innerHTML = d.getMonth() + 1; /*month*/
+            document.getElementById("d").innerHTML = d.getDate(); /*date*/
+            document.getElementById("h").innerHTML = d.getHours(); /*hour*/
+            document.getElementById("m").innerHTML = d.getMinutes(); /*minute*/
+            document.getElementById("s").innerHTML = d.getSeconds(); /*second*/
+        </script>
+    </body>
+</html>

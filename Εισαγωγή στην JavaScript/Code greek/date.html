@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <p id="y"></p>
+        <p id="m"></p>
+        <p id="d"></p>
+        <p id="h"></p>
+        <p id="m"></p>
+        <p id="s"></p>
+
+        <script>
+            var d = new Date();
+            document.getElementById("y").innerHTML = d.getFullYear(); /*χρονιά*/
+            document.getElementById("m").innerHTML = d.getMonth() + 1; /*μήνας*/
+            document.getElementById("d").innerHTML = d.getDate(); /*μέρα*/
+            document.getElementById("h").innerHTML = d.getHours(); /*ώρα*/
+            document.getElementById("m").innerHTML = d.getMinutes(); /*λεπτά*/
+            document.getElementById("s").innerHTML = d.getSeconds(); /*δευτερόλεπτα*/
+        </script>
+    </body>
+</html>
