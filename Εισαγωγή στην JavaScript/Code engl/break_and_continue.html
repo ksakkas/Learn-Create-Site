@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <p id="s"></p>
+        <p id="sn"></p>
+
+        <script>
+            var sum=0;
+            var sumn=0;
+            for(i=0;i<5;i++)
+           {
+               if(i==2)
+               continue; /*the continue statement "jumps over" one iteration in the loop.*/
+               else
+               sumn+=i;
+           }
+           
+           for(i=0;i<5;i++)
+           {
+               if(i==3)
+               break; /*the break statement "jumps out" of a loop.*/
+               else
+               sum+=i;
+           }
+
+          
+            document.getElementById("s").innerHTML=sum;
+            document.getElementById("sn").innerHTML=sumn;
+
+        </script>
+    </body>
+</html>
