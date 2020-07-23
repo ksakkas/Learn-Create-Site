@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <p id="obj"></p>
+
+        <script>
+            class person{ /*δημιουργία κλάσης (class) με όνομα person */
+                constructor(fname) {
+                    this.firstname = fname;
+                }
+                
+                get fname() { /*getter*/
+                     return this.firstname;
+                }
+
+                set fname(x) { /*setter*/
+                     this.firstname = x;
+                }
+            }
+
+            var mperson = new person("Konstantinos"); /*δημιουργία ενός νέου (new) αντικειμένου για την κλάση*/
+
+            document.getElementById("obj").innerHTML = mperson.fname;
+
+
+        </script>
+    </body>
+</html>
