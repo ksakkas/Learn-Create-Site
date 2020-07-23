@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <form action="#" onsubmit="test()"> <!--onsubmit = οταν γινει κλικ στο κουμπι-->
+            Name:  <input type="text" id="name"><br><br>
+            Email: <input type="text" id="mail"><br><br>
+            <input type="submit">
+
+        </form>
+
+        <script>
+            function test(){
+                name = document.getElementById("name").value;
+                mail = document.getElementById("mail").value;
+
+                if(name == "")
+                alert("name empty, give name");
+                if(mail == "")
+                alert("mail empty, give mail");
+            }
+        </script>
+    </body>
+</html>
