@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <p id="obj"></p>
+        <p id="obj2"></p>
+        <p id="obj3"></p>
+
+
+        <script>
+            /*Χρησιμοποιώντας ένα αντικείμενο κυριολεκτικά*/
+            var person = { /*δημιουργούμε ένα αντικείμενο με όνομα person*/
+                firstName: "Konstantinos", /*αυτά είναι πεδία του αντικειμένου*/
+                lastName: "Sakkas",
+                age: 21
+            }; /*τα πεδία των αντικειμένων βρίσκονται μέσα {}
+                κάθε αντικείμενο κλείνει με ; */
+            
+            document.getElementById("obj").innerHTML= person.firstName + " " + person.lastName;
+            /*με το όνομα του αντικειμένου. όνομα πεδίου μπορούμε να καλέσουμε το αντίστοιχο πεδίο από ένα αντικείμενο*/
+        
+            
+           /*Χρήση της λέξης-κλειδιού JavaScript new*/
+           var person = new Object();
+                /*δημιουργούμε ένα νέο αντικείμενο με όνομα person*/
+                person.firstName = "Konstantinos"; /*αυτά είναι πεδία του αντικειμένου*/
+                person.lastName = "Sakkas";
+                person.age = 21;
+
+                document.getElementById("obj2").innerHTML= person.age;
+
+            /*Τα αντικείμενα JavaScript είναι μεταβλητά*/
+            var person = { /*δημιουργούμε ένα αντικείμενο με όνομα person*/
+                firstName: "Konstantinos", /*αυτά είναι πεδία του αντικειμένου*/
+                lastName: "Sakkas",
+                age: 21
+            };
+
+            var x = person; /*εκχωρούμε το αντικείμενο σε μια μεταβλητή x*/
+            x.age = 10;
+            document.getElementById("obj3").innerHTML= person.age;
+
+        </script>
+    </body>
+</html>
