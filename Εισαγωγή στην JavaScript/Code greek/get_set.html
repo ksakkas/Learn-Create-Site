@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <p id="obj"></p>
+        <p id="obj2"></p>
+        <p id="obj3"></p>
+
+
+        <script>
+        /*getter*/
+         var person = { /*δημιουργούμε ένα αντικείμενο με όνομα person*/
+                firstName: "Konstantinos", /*αυτά είναι πεδία του αντικειμένου*/
+                lastName: "Sakkas",
+                age: 21,
+                get p_age(){ /*getter*/
+                    return this.age;
+                }
+            };
+
+        document.getElementById("obj").innerHTML = person.p_age;
+
+        /*setter*/
+        var person = { /*δημιουργούμε ένα αντικείμενο με όνομα person*/
+                firstName: "Konstantinos", /*αυτά είναι πεδία του αντικειμένου*/
+                lastName: "Sakkas",
+                age: "",
+                set p_age(p_age){ /*setter*/
+                    this.age = p_age;
+                }
+            };
+        
+        person.p_age=21;
+
+        document.getElementById("obj2").innerHTML = person.age;
+        </script>
+    </body>
+</html>
