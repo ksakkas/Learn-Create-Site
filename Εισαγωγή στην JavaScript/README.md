@@ -21,7 +21,7 @@ t<html>
 <li><a href="./Code greek/operator.html" target="_blank">Τελεστές στην JasvaScript</a></li>
 <li><a href="./Code greek/example_num_string.html" target="_blank">Παράδειγμα στην JasvaScript (αριθμοί και χαρακτήρες)</a></li>
 <li><a href="./Code greek/function_and_button.html" target="_blank">Συνάρτηση στην JavaScript </a></li>
-r<li><a href="./Code greek/arrays.html" target="_blank">Πίνακες στην JavaScript </a></li>
+<li><a href="./Code greek/arrays.html" target="_blank">Πίνακες στην JavaScript </a></li>
 <li><a href="./Code greek/arrays2.html" target="_blank">Πίνακες στην JavaScript (2) </a></li>
 <li><a href="./Code greek/date.html" target="_blank">Ημερομηνία και ώρα στην JavaScript</a></li>
 <li><a href="./Code greek/math.html" target="_blank">Maths στην JavaScript</a></li>
@@ -41,7 +41,10 @@ r<li><a href="./Code greek/arrays.html" target="_blank">Πίνακες στην 
 <li><a href="./Code greek/constructor.html" target="_blank">Constructor στην JavaScript</a></li>
 <li><a href="./Code greek/bom.html" target="_blank">Συναρτήσεις BOM στην JavaScript</a></li>
 <li><a href="./Code greek/alert_prompt.html" target="_blank">Alert και Prompt στην JavaScript</a></li>
-<li><a href="./Code greek/azax.txt" target="_blank">Τι ειναι η AZAX στην JavaScript</a></li>
+<li><a href="./Code greek/azax.html" target="_blank">Τι ειναι η AZAX στην JavaScript</a></li>
+<li><a href="./Code greek/json.html" target="_blank">Τι ειναι το JSON  στην JavaScript</a></li>
+<li><a href="./Code greek/json2.html" target="_blank">Τι ειναι το JSON στην JavaScript (2)</a></li>
+<li><a href="./Code greek/api.html" target="_blank">Τι ειναι το API στην JavaScript (2)</a></li>
 
 
 
