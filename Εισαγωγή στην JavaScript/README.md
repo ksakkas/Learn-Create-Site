@@ -1,4 +1,4 @@
-<html>
+t<html>
 <body>
 <h1> Learn HTML-CSS-JS-PHP-SQL-DB</h1>
 <p> Τμήμα Πληροφορικής & Τηλεπικοινωνιών </p>
@@ -21,11 +21,32 @@
 <li><a href="./Code greek/operator.html" target="_blank">Τελεστές στην JasvaScript</a></li>
 <li><a href="./Code greek/example_num_string.html" target="_blank">Παράδειγμα στην JasvaScript (αριθμοί και χαρακτήρες)</a></li>
 <li><a href="./Code greek/function_and_button.html" target="_blank">Συνάρτηση στην JavaScript </a></li>
+r<li><a href="./Code greek/arrays.html" target="_blank">Πίνακες στην JavaScript </a></li>
+<li><a href="./Code greek/arrays2.html" target="_blank">Πίνακες στην JavaScript (2) </a></li>
+<li><a href="./Code greek/date.html" target="_blank">Ημερομηνία και ώρα στην JavaScript</a></li>
+<li><a href="./Code greek/math.html" target="_blank">Maths στην JavaScript</a></li>
+<li><a href="./Code greek/if.html" target="_blank">If στην JavaScript</a></li>
+<li><a href="./Code greek/switch.html" target="_blank">Switch στην JavaScript</a></li>
+<li><a href="./Code greek/for.html" target="_blank">For στην JavaScript</a></li>
+<li><a href="./Code greek/while.html" target="_blank">While στην JavaScript</a></li>
+<li><a href="./Code greek/break_and_continue.html" target="_blank">Break και Continue στην JavaScript</a></li>
+<li><a href="./Code greek/regular_expressions.html" target="_blank">Κανονικές Εκφράσεις στην JavaScript</a></li>
+<li><a href="./Code greek/try_catch.html" target="_blank">Try και Catch στην JavaScript</a></li>
+<li><a href="./Code greek/try_catch2.html" target="_blank">Try, Catch και Throw στην JavaScript</a></li>
+<li><a href="./Code greek/form_and_js.html" target="_blank">Φόρμες στην JavaScript</a></li>
+<li><a href="./Code greek/class.html" target="_blank">Κλάσεις στην JavaScript</a></li>
+<li><a href="./Code greek/object.html" target="_blank">Αντικείμενα στην JavaScript</a></li>
+<li><a href="./Code greek/this.html" target="_blank">Αντικείμενα (this) στην JavaScript</a></li>
+<li><a href="./Code greek/set_get.html" target="_blank">Setter και Getter (Object) στην JavaScript</a></li>
+<li><a href="./Code greek/constructor.html" target="_blank">Constructor στην JavaScript</a></li>
+<li><a href="./Code greek/bom.html" target="_blank">Συναρτήσεις BOM στην JavaScript</a></li>
+<li><a href="./Code greek/alert_prompt.html" target="_blank">Alert και Prompt στην JavaScript</a></li>
+<li><a href="./Code greek/azax.txt" target="_blank">Τι ειναι η AZAX στην JavaScript</a></li>
+
 
 
 
 </ul>
-
 
 
 </body>
