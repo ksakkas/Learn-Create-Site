@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <p id="obj"></p>
+        <p id="obj2"></p>
+        <p id="obj3"></p>
+
+
+        <script>
+            /*Using an Object Literal*/
+            var person = { /*we create an object with a name person*/
+                firstName: "Konstantinos", /*these are fields of the object*/
+                lastName: "Sakkas",
+                age: 21
+            }; /*the fields of the objects are inside {}
+                each object closes with ; */
+            
+            document.getElementById("obj").innerHTML= person.firstName + " " + person.lastName;
+            /*with the name of the object. field name we can call the corresponding field from an object*/
+        
+            
+           /*Using the JavaScript Keyword new*/
+           var person = new Object();
+                /*we create an new object with a name person*/
+                person.firstName = "Konstantinos"; /*these are fields of the object*/
+                person.lastName = "Sakkas";
+                person.age = 21;
+
+                document.getElementById("obj2").innerHTML= person.age;
+
+            /*JavaScript Objects are Mutable*/
+            var person = { /*we create an object with a name person*/
+                firstName: "Konstantinos", /*these are fields of the object*/
+                lastName: "Sakkas",
+                age: 21
+            };
+
+            var x = person; /*we assign the object to a variable*/
+            x.age = 10;
+            document.getElementById("obj3").innerHTML= person.age;
+
+        </script>
+    </body>
+</html>
