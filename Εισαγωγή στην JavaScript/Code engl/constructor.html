@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <p id="obj"></p>
+        <p id="obj2"></p>
+        <p id="obj3"></p>
+
+
+        <script>
+            function person(fname, lname, page) /*constructor for person with arguments: fname, lname, age*/
+            {
+                this.firstName = fname;
+                this.lastName = lname;
+                this.age = page;
+            }
+
+            /* create a person object */
+            var mperson = new person("Konstantinos", "Sakkas", 21);
+            var mperson2 = new person("Konstantinos", "Sakkas", 22);
+
+            document.getElementById("obj").innerHTML = mperson.age;
+            document.getElementById("obj2").innerHTML = mperson2.age;
+
+
+        </script>
+    </body>
+</html>
