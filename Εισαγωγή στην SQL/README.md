@@ -11,7 +11,7 @@
 
 <ul>
 
-<li><a href="./Code greek/sql.pdf" target="_blank">Εισαγωγή στην SQL </a></li>
+<li><a href="./Code greek/SQL.pdf" target="_blank">Εισαγωγή στην SQL </a></li>
 
 
 
