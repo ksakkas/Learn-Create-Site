@@ -65,7 +65,7 @@
 <li><a href="./Αντικειμενοστραφής%20στην%20PHP">Αντικειμενοστραφής στην PHP</a></li>
 <li><a href="./PHP">Ασκήσεις στην PHP</a></li>
 <li><a href="./Διαφάνειες%20HTML%2C%20CSS%2C%20JS%2C%20PHP">Διαφάνειες HTML, CSS, JS, PHP</a></li>
-</ul>
+</ul> 
 
 <script>
 // Wrap every letter in a span
