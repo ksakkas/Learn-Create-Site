@@ -1,7 +1,11 @@
 <html>
   <head>
   <style>
-    .ml3 .ml4 {
+    .ml3 {
+    font-weight: 900;
+    font-size: 2em;
+    }
+     .ml4 {
     font-weight: 900;
     font-size: 2em;
     }
@@ -68,7 +72,7 @@ anime.timeline({loop: true})
     opacity: [0,1],
     easing: "easeInOutQuad",
     duration: 2250,
-    delay: (el, i) => 150 * (i+1)
+    delay: (el, i) => 80 * (i+1)
   }).add({
     targets: '.ml3',
     opacity: 0,
@@ -83,7 +87,7 @@ anime.timeline({loop: true})
     opacity: [0,1],
     easing: "easeInOutQuad",
     duration: 2250,
-    delay: (el, i) => 150 * (i+1)
+    delay: (el, i) => 80 * (i+1)
   }).add({
     targets: '.ml4',
     opacity: 0,
