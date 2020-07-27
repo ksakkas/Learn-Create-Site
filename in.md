@@ -64,15 +64,13 @@ textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='let
 
 anime.timeline({loop: true})
   .add({
-    targets: '.ml3 .letter',
-        targets: '.ml4 .letter',
+    targets: '.ml3 .ml4 .letter',
     opacity: [0,1],
     easing: "easeInOutQuad",
     duration: 2250,
     delay: (el, i) => 150 * (i+1)
   }).add({
-    targets: '.ml3',
-        targets: '.ml4',
+    targets: '.ml3 .ml4',
     opacity: 0,
     duration: 1000,
     easing: "easeOutExpo",
