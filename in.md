@@ -1,5 +1,6 @@
 <html>
   <head>
+  <style>
     .ml2 {
       font-weight: 900;
       font-size: 3.5em;
@@ -8,6 +9,7 @@
       display: inline-block;
       line-height: 1em;
     }
+    </style>
   </head>
 <body>
 <h1> Learn HTML-CSS-JS-PHP-SQL-DB</h1>
