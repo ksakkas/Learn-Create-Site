@@ -82,14 +82,14 @@ anime.timeline({loop: true})
     targets: '.ml3 .letter',
     opacity: [0,1],
     easing: "easeInOutQuad",
-    duration: 2250,
+    duration: 2150,
     delay: (el, i) => 60 * (i+1)
   }).add({
     targets: '.ml3',
     opacity: 0,
-    duration: 1000,
+    duration: 500,
     easing: "easeOutExpo",
-    delay: 1000
+    delay: 100
   });
 
   anime.timeline({loop: true})
@@ -97,14 +97,14 @@ anime.timeline({loop: true})
     targets: '.ml4 .letter',
     opacity: [0,1],
     easing: "easeInOutQuad",
-    duration: 2250,
+    duration: 2150,
     delay: (el, i) => 60 * (i+1)
   }).add({
     targets: '.ml4',
     opacity: 0,
-    duration: 1000,
+    duration: 500,
     easing: "easeOutExpo",
-    delay: 1000
+    delay: 100
   });
 
   anime.timeline({loop: true})
@@ -112,14 +112,14 @@ anime.timeline({loop: true})
     targets: '.ml5 .letter',
     opacity: [0,1],
     easing: "easeInOutQuad",
-    duration: 2250,
+    duration: 2150,
     delay: (el, i) => 60 * (i+1)
   }).add({
     targets: '.ml5',
     opacity: 0,
-    duration: 1000,
+    duration: 500,
     easing: "easeOutExpo",
-    delay: 1000
+    delay: 100
   });
 
   anime.timeline({loop: true})
@@ -127,14 +127,14 @@ anime.timeline({loop: true})
     targets: '.ml6 .letter',
     opacity: [0,1],
     easing: "easeInOutQuad",
-    duration: 2250,
+    duration: 2150,
     delay: (el, i) => 60 * (i+1)
   }).add({
     targets: '.ml6',
     opacity: 0,
-    duration: 1000,
+    duration: 500,
     easing: "easeOutExpo",
-    delay: 1000
+    delay: 100
   });
 </script>
 </body>
