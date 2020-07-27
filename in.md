@@ -98,7 +98,7 @@ anime.timeline({loop: true})
     opacity: [0,1],
     easing: "easeInOutQuad",
     duration: 2250,
-    delay: (el, i) => 80 * (i+1)
+    delay: (el, i) => 90 * (i+1)
   }).add({
     targets: '.ml4',
     opacity: 0,
@@ -113,7 +113,7 @@ anime.timeline({loop: true})
     opacity: [0,1],
     easing: "easeInOutQuad",
     duration: 2250,
-    delay: (el, i) => 80 * (i+1)
+    delay: (el, i) => 100 * (i+1)
   }).add({
     targets: '.ml5',
     opacity: 0,
@@ -128,7 +128,7 @@ anime.timeline({loop: true})
     opacity: [0,1],
     easing: "easeInOutQuad",
     duration: 2250,
-    delay: (el, i) => 80 * (i+1)
+    delay: (el, i) => 110 * (i+1)
   }).add({
     targets: '.ml6',
     opacity: 0,
