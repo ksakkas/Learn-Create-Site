@@ -39,35 +39,25 @@
 <li><a href="./Διαφάνειες%20HTML%2C%20CSS%2C%20JS%2C%20PHP">Διαφάνειες HTML, CSS, JS, PHP</a></li>
 </ul>
 
+<h1 class="ml2">JAVASCRIPT</h1>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+<ul>
+<li><a href="./Εισαγωγή%20στην%20JavaScript">Εισαγωγή στην JAVASCRIPT</a></li>
+<li><a href="./Ασκήσεις%20HTML%2C%20CSS%2C%20JS">Ασκήσεις HTML, CSS, JS</a></li>
+<hr>
+<li><a href="./Διαφάνειες%20HTML%2C%20CSS%2C%20JS%2C%20PHP">Διαφάνειες HTML, CSS, JS, PHP</a></li>
+</ul>
 
-
-* [Εισαγωγή στην CSS](./Εισαγωγή%20στην%20CSS/README.md)
-* [Ασκήσεις HTML, CSS, JS](./Ασκήσεις%20HTML%2C%20CSS%2C%20JS)
-#
-* [Διαφάνειες HTML, CSS, JS, PHP](./Διαφάνειες%20HTML%2C%20CSS%2C%20JS%2C%20PHP/README.md)
-
-***
-### JAVASCRIPT
-* [Εισαγωγή στην JAVASCRIPT](./Εισαγωγή%20στην%20JavaScript/README.md)
-* [Ασκήσεις HTML, CSS, JS](./Ασκήσεις%20HTML%2C%20CSS%2C%20JS)
-#
-* [Διαφάνειες HTML, CSS, JS, PHP](./Διαφάνειες%20HTML%2C%20CSS%2C%20JS%2C%20PHP/README.md)
-
-***
-### PHP
-* [Εισαγωγή στην PHP](./Εισαγωγή%20στην%20PHP/README.md)
-* [Φόρμες και Βάση Δεδομένων στην PHP](./Φόρμες%20και%20Βάση%20Δεδομένων%20στην%20PHP/README.md)
-* [Εξειδικευμένη PHP](./Εξειδικευμένη%20PHP/README.md)
-* [Αντικειμενοστραφής στην PHP](./Αντικειμενοστραφής%20στην%20PHP/Readme.md)
-* [Ασκήσεις στην PHP](./PHP)
-
-#
-* [Διαφάνειες HTML, CSS, JS, PHP](./Διαφάνειες%20HTML%2C%20CSS%2C%20JS%2C%20PHP/README.md)
-
-***
-### SQL
-* [Εισαγωγή στην SQL](./Εισαγωγή%20στην%20SQL/README.md)
-
+<h1 class="ml2">PHP</h1>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+<ul>
+<li><a href="./Εισαγωγή%20στην%20PHP">Εισαγωγή στην PHP</a></li>
+<li><a href="./Φόρμες%20και%20Βάση%20Δεδομένων%20στην%20PHP">Φόρμες και Βάση Δεδομένων στην PHP</a></li>
+<li><a href="./Εξειδικευμένη%20PHP">Εξειδικευμένη PHP</a></li>
+<li><a href="./Αντικειμενοστραφής%20στην%20PHP">Αντικειμενοστραφής στην PHP</a></li>
+<li><a href="./PHP">Ασκήσεις στην PHP</a></li>
+<hr>
+<li><a href="./Διαφάνειες%20HTML%2C%20CSS%2C%20JS%2C%20PHP">Διαφάνειες HTML, CSS, JS, PHP</a></li>
 </ul>
 
 <script>
