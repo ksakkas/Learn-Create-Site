@@ -6,7 +6,7 @@
     font-weight: 900;
     font-size: 1.8em;
     }
-     .ml4 {
+     .ml4 { 
     font-weight: 900;
     font-size: 1.8em;
     }
@@ -110,7 +110,7 @@ anime.timeline({loop: true})
 
   anime.timeline({loop: true})
   .add({
-    targets: '.ml5 .letter',
+    targets: '.ml5 .letter', 
     opacity: [0,1],
     easing: "easeInOutQuad",
     duration: 2150,
