@@ -6,5 +6,9 @@
 #### HTML
 
 * [Εισαγωγή στην HTML](./Εισαγωγή%20στην%20HTML/README.md)
+* [Βίντεο και Ήχος στην HTML](./Βίντεο%20και%20Ήχος%20στην%20HTML/Readme.md)
+* [Φόρμες στην HTML](./Φόρμες%20στην%20HTML/README.md)
+* [Ασκήσεις HTML, CSS, JS](./Ασκήσεις%20HTML%2C%20CSS%2C%20JS)
 
-* [Εισαγωγή στην HTML](https://github.com/ksakkas/Learn-Create-Site/tree/master/%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%B7%CE%BD%20HTML)
+#
+* [Διαφάνειες HTML, CSS, JS, PHP](./Διαφάνειες%20HTML%2C%20CSS%2C%20JS%2C%20PHP/README.md)
