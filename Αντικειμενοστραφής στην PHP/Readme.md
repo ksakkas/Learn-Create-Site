@@ -1,4 +1,4 @@
-ort<html>
+<html>
 <body>
 <h1> Learn HTML-CSS-JS-PHP-SQL-DB</h1>
 <p> Τμήμα Πληροφορικής & Τηλεπικοινωνιών </p>
