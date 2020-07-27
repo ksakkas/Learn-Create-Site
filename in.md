@@ -1,9 +1,9 @@
 <html>
   <head>
   <style>
-    .ml3 {
+    .ml3 .ml4 {
     font-weight: 900;
-    font-size: 3.5em;
+    font-size: 2em;
     }
     </style>
   </head>
@@ -35,7 +35,7 @@
 <li><a href="./Διαφάνειες%20HTML%2C%20CSS%2C%20JS%2C%20PHP">Διαφάνειες HTML, CSS, JS, PHP</a></li>
 </ul>
 
-<h1 class="ml3">JAVASCRIPT</h1>
+<h1 class="ml4">JAVASCRIPT</h1>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
 <ul>
 <li><a href="./Εισαγωγή%20στην%20JavaScript">Εισαγωγή στην JAVASCRIPT</a></li>
@@ -59,17 +59,20 @@
 <script>
 // Wrap every letter in a span
 var textWrapper = document.querySelector('.ml3');
+var textWrapper = document.querySelector('.ml4');
 textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
 
 anime.timeline({loop: true})
   .add({
     targets: '.ml3 .letter',
+        targets: '.ml4 .letter',
     opacity: [0,1],
     easing: "easeInOutQuad",
     duration: 2250,
     delay: (el, i) => 150 * (i+1)
   }).add({
     targets: '.ml3',
+        targets: '.ml4',
     opacity: 0,
     duration: 1000,
     easing: "easeOutExpo",
