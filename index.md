@@ -1,5 +1,6 @@
 <html>
   <head>
+  	<link rel="icon" href="favicon.ico" type="image/png" />
   <style>
     .ml3 {
     font-weight: 900;
