@@ -3,7 +3,7 @@
   <style>
     .ml2 {
       font-weight: 900;
-      font-size: 3.5em;
+      font-size: 2.5em;
     }
     .ml2 .letter {
       display: inline-block;
@@ -23,6 +23,12 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
 <ul>
 <li><a href="./Εισαγωγή%20στην%20HTML">Εισαγωγή στην HTML</a></li>
+<li><a href="./Βίντεο%20και%20Ήχος%20στην%20HTML/">Βίντεο και Ήχος στην HTML</a></li>
+<li><a href="./Φόρμες%20στην%20HTML">Φόρμες στην HTML</a></li>
+<li><a href="./Ασκήσεις%20HTML%2C%20CSS%2C%20JS">Ασκήσεις HTML, CSS, JS</a></li>
+<hr>
+<li><a href="./Διαφάνειες%20HTML%2C%20CSS%2C%20JS%2C%20PHP">Διαφάνειες HTML, CSS, JS, PHP</a></li>
+
 </ul>
 
 
