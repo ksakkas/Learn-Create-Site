@@ -33,7 +33,7 @@
 <li><a href="./Εισαγωγή%20στην%20HTML">Εισαγωγή στην HTML</a></li>
 <li><a href="./Βίντεο%20και%20Ήχος%20στην%20HTML/">Βίντεο και Ήχος στην HTML</a></li>
 <li><a href="./Φόρμες%20στην%20HTML">Φόρμες στην HTML</a></li>
-<li><a href="./Ασκήσεις%20HTML%2C%20CSS%2C%20JS">Ασκήσεις HTML, CSS, JS</a></li>
+<li><a href="./Ασκήσεις%20HTML,%20CSS,%20JS">Ασκήσεις HTML, CSS, JS</a></li>
 <li><a href="./Διαφάνειες%20HTML%2C%20CSS%2C%20JS%2C%20PHP">Διαφάνειες HTML, CSS, JS, PHP</a></li>
 </ul>
 <hr style="height:2px;border-width:0;color:gray;background-color: #008080">
