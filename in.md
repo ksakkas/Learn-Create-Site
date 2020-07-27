@@ -25,7 +25,7 @@
 <p> Κωνσταντίνος Σακκάς</p>
   <p>Copyright © 2020 Κωνσταντίνος Σακκάς. Με την επιφύλαξη παντός δικαιώματος</p>
   <h1></h1>
-  <hr>
+<hr style="height:3px;border-width:0;color:gray;background-color: #990033">
 
 <h1 class="ml3">HTML</h1>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
