@@ -30,7 +30,7 @@
 <li><a href="./Διαφάνειες%20HTML%2C%20CSS%2C%20JS%2C%20PHP">Διαφάνειες HTML, CSS, JS, PHP</a></li>
 </ul>
 
-<h1 class="ml3">CSS</h1>
+<h1 class="ml4">CSS</h1>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
 <ul>
 <li><a href="./Εισαγωγή%20στην%20CSS">Εισαγωγή στην CSS</a></li>
@@ -39,7 +39,7 @@
 <li><a href="./Διαφάνειες%20HTML%2C%20CSS%2C%20JS%2C%20PHP">Διαφάνειες HTML, CSS, JS, PHP</a></li>
 </ul>
 
-<h1 class="ml4">JAVASCRIPT</h1>
+<h1 class="ml">JAVASCRIPT</h1>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
 <ul>
 <li><a href="./Εισαγωγή%20στην%20JavaScript">Εισαγωγή στην JAVASCRIPT</a></li>
