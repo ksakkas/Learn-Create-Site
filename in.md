@@ -63,8 +63,9 @@
 <script>
 // Wrap every letter in a span
 var textWrapper = document.querySelector('.ml3');
-var textWrapper = document.querySelector('.ml4');
+var textWrapper2 = document.querySelector('.ml4');
 textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
+textWrapper2.innerHTML = textWrapper2.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
 
 anime.timeline({loop: true})
   .add({
