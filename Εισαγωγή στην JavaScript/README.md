@@ -37,7 +37,7 @@
 <li><a href="./Code greek/class.html" target="_blank">Κλάσεις στην JavaScript</a></li>
 <li><a href="./Code greek/object.html" target="_blank">Αντικείμενα στην JavaScript</a></li>
 <li><a href="./Code greek/this.html" target="_blank">Αντικείμενα (this) στην JavaScript</a></li>
-<li><a href="./Code greek/set_get.html" target="_blank">Setter και Getter (Object) στην JavaScript</a></li>
+<li><a href="./Code greek/get_set.html" target="_blank">Setter και Getter (Object) στην JavaScript</a></li>
 <li><a href="./Code greek/constructor.html" target="_blank">Constructor στην JavaScript</a></li>
 <li><a href="./Code greek/bom.html" target="_blank">Συναρτήσεις BOM στην JavaScript</a></li>
 <li><a href="./Code greek/alert_prompt.html" target="_blank">Alert και Prompt στην JavaScript</a></li>
