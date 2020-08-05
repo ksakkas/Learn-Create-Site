@@ -71,9 +71,9 @@
 <li><a href="./Διαφάνειες%20HTML%2C%20CSS%2C%20JS%2C%20PHP">Διαφάνειες HTML, CSS, JS, PHP</a></li>
 </ul>
 <h1 class="ml7">My Project</h1>
-
+<ul>
 <li><a href="./Project">My Project</a></li>
-
+</ul>
 
 <script>
 // Wrap every letter in a span
