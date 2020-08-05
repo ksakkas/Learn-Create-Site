@@ -18,6 +18,10 @@
     font-weight: 900;
     font-size: 1.8em;
     }
+    .ml7 {
+    font-weight: 900;
+    font-size: 1.8em;
+    }
     </style>
   </head>
 <body>
@@ -65,7 +69,11 @@
 <li><a href="./Αντικειμενοστραφής%20στην%20PHP">Αντικειμενοστραφής στην PHP</a></li>
 <li><a href="./PHP">Ασκήσεις στην PHP</a></li>
 <li><a href="./Διαφάνειες%20HTML%2C%20CSS%2C%20JS%2C%20PHP">Διαφάνειες HTML, CSS, JS, PHP</a></li>
-</ul> 
+</ul>
+<h1 class="ml7">My Project</h1>
+
+<li><a href="./Project">My Project</a></li>
+
 
 <script>
 // Wrap every letter in a span
@@ -73,10 +81,13 @@ var textWrapper = document.querySelector('.ml3');
 var textWrapper2 = document.querySelector('.ml4');
 var textWrapper3 = document.querySelector('.ml5');
 var textWrapper4 = document.querySelector('.ml6');
+var textWrapper5 = document.querySelector('.ml7');
+
 textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
 textWrapper2.innerHTML = textWrapper2.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
 textWrapper3.innerHTML = textWrapper3.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
 textWrapper4.innerHTML = textWrapper4.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
+textWrapper5.innerHTML = textWrapper5.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
 
 anime.timeline({loop: true})
   .add({
@@ -132,6 +143,21 @@ anime.timeline({loop: true})
     delay: (el, i) => 60 * (i+1)
   }).add({
     targets: '.ml6',
+    opacity: 0,
+    duration: 500,
+    easing: "easeOutExpo",
+    delay: 100
+  });
+
+  anime.timeline({loop: true})
+  .add({
+    targets: '.ml7 .letter',
+    opacity: [0,1],
+    easing: "easeInOutQuad",
+    duration: 2150,
+    delay: (el, i) => 60 * (i+1)
+  }).add({
+    targets: '.ml7',
     opacity: 0,
     duration: 500,
     easing: "easeOutExpo",
