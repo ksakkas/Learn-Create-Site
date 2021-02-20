@@ -61,6 +61,15 @@
 </ul>
 <hr style="height:2px;border-width:0;color:gray;background-color: #008080">
 
+<h1 class="ml5">BOOTSTRAP </h1>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+<ul>
+<li><a href="./Εισαγωγή%20στην%BOOTSTRAP">Εισαγωγή στην BOOTSTRAP</a></li>
+<li><a href="./Ασκήσεις%20BOOTSTRAP">Ασκήσεις BOOTSTRAP</a></li>
+<li><a href="./Διαφάνειες%20BOOTSTRAP">Διαφάνειες BOOTSTRAP</a></li>
+</ul>
+<hr style="height:2px;border-width:0;color:gray;background-color: #008080">
+
 <h1 class="ml6">PHP</h1>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
 <ul>
