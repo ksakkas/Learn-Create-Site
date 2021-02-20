@@ -20,6 +20,11 @@
 <li><a href="./Code greek/4_Responsive.html" target="_blank">4. Δυναμικά Containers </a> -- <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%B7%CE%BD%20BOOTSTRAP/Code%20greek/4_Responsive.html">κώδικας </a></li>
 </ul>
 
+<li><a href="./Code greek/5_col.html" target="_blank">5. Τρεις ίσες στήλες </a> -- <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%B7%CE%BD%20BOOTSTRAP/Code%20greek/5_col.html">κώδικας </a></li>
+</ul>
+
+<li><a href="./Code greek/6_dcol.html" target="_blank">6. Δυναμικές Στήλες </a> -- <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%B7%CE%BD%20BOOTSTRAP/Code%20greek/6_dcol.html">κώδικας </a></li>
+</ul>
 
 </body>
 </html>
