@@ -25,6 +25,9 @@
 
 <li><a href="./Code greek/7_dcold.html" target="_blank">7. Δυναμικές Στήλες (διαφορετικά πλάτη) </a> -- <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%B7%CE%BD%20BOOTSTRAP/Code%20greek/7_dcold.html">κώδικας </a></li>
 
+<li><a href="./Code greek/8_header.html" target="_blank">8. Επικεφαλίδες </a> -- <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%B7%CE%BD%20BOOTSTRAP/Code%20greek/8_header.html">κώδικας </a></li>
+
+<li><a href="./Code greek/9_display.html" target="_blank">9. Τίτλοι </a> -- <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%B7%CE%BD%20BOOTSTRAP/Code%20greek/9_display.html">κώδικας </a></li>
 
 
 </ul>
