@@ -166,6 +166,13 @@ input.hamburger-checkbox {
     </style>
   </head>
 <body>
+
+<h1> Learn HTML-CSS-JS-PHP-SQL-DB</h1>
+<p> Τμήμα Πληροφορικής & Τηλεπικοινωνιών </p>
+<p> Κωνσταντίνος Σακκάς</p>
+  <p>Copyright © 2021 Κωνσταντίνος Σακκάς. Με την επιφύλαξη παντός δικαιώματος</p>
+  <h1></h1>
+<hr style="height:3px;border-width:0;color:gray;background-color: #990033">
 <div class="menu-container">
   
   <input type="checkbox" id="openmenu" class="hamburger-checkbox">
@@ -211,15 +218,7 @@ input.hamburger-checkbox {
         
       </nav>
     </div>
-
 </div>
-<h1> Learn HTML-CSS-JS-PHP-SQL-DB</h1>
-<p> Τμήμα Πληροφορικής & Τηλεπικοινωνιών </p>
-<p> Κωνσταντίνος Σακκάς</p>
-  <p>Copyright © 2020 Κωνσταντίνος Σακκάς. Με την επιφύλαξη παντός δικαιώματος</p>
-  <h1></h1>
-<hr style="height:3px;border-width:0;color:gray;background-color: #990033">
-
 <h1 class="ml3">HTML</h1>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
 <ul>
