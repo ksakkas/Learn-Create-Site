@@ -30,6 +30,9 @@
 <li><a href="./Code greek/9_display.html" target="_blank">9. Τίτλοι </a> -- <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%B7%CE%BD%20BOOTSTRAP/Code%20greek/9_display.html">κώδικας </a></li>
 
 <li><a href="./Code greek/10_dtag.html" target="_blank">10. Διάφορες ετικέτες </a> -- <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%B7%CE%BD%20BOOTSTRAP/Code%20greek/10_dtag.html">κώδικας </a></li>
+
+<li><a href="./Code greek/11_tabler.html" target="_blank">11. Δυναμικός Πίνακας </a> -- <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%B7%CE%BD%20BOOTSTRAP/Code%20greek/11_tabler">κώδικας </a></li>
+
 </ul>
 
 </body>
