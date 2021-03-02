@@ -33,6 +33,11 @@
 
 <li><a href="./Code greek/11_tabler.html" target="_blank">11. Δυναμικός Πίνακας </a> -- <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%B7%CE%BD%20BOOTSTRAP/Code%20greek/11_tabler">κώδικας </a></li>
 
+<li><a href="./Code greek/12_imgr.html" target="_blank">12. Δυναμική Εικόνα </a> -- <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%B7%CE%BD%20BOOTSTRAP/Code%20greek/12_imgr.html">κώδικας </a></li>
+
+<li><a href="./Code greek/13_Jumbotron.html" target="_blank">13. Jumbotron </a> -- <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%B7%CE%BD%20BOOTSTRAP/Code%20greek/13_Jumbotron.html">κώδικας </a></li>
+
+
 </ul>
 
 </body>
