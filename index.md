@@ -33,6 +33,14 @@
   <h1></h1>
 <hr style="height:3px;border-width:0;color:gray;background-color: #990033">
 
+<h1> Εργαστήριο Πρωτόκολλα & Αρχιτεκτονικές Δικτύων </h1>
+<ul>
+<li><a href="./Ασκήσεις%20HTML">Ασκήσεις HTML</a></li>
+</ul>
+
+<hr style="height:2px;border-width:0;color:gray;background-color: #008080">
+
+
 <h1 class="ml3">HTML</h1>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
 <ul>
