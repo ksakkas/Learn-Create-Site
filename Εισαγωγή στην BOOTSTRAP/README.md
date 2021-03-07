@@ -72,6 +72,8 @@
 
 <li><a href="./Code greek/30_carousel.html" target="_blank">30. Carousel</a> -- <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%B7%CE%BD%20BOOTSTRAP/Code%20greek/30_carousel.html">κώδικας </a></li>
 
+<li><a href="./Code greek/31_popw.html" target="_blank">31. Modal</a> -- <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%B7%CE%BD%20BOOTSTRAP/Code%20greek/31_popw.html">κώδικας </a></li>
+
 </ul>
 </body>
 </html>
