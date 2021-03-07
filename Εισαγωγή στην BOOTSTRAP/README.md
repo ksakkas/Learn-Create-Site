@@ -45,7 +45,6 @@
 
 
 <li><a href="./Code greek/17_sbuttons.html" target="_blank">17. Spiner Button </a> -- <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%B7%CE%BD%20BOOTSTRAP/Code%20greek/17_sbuttons.html">κώδικας </a></li>
-</ul>
 
 <li><a href="./Code greek/18_gbuttons.html" target="_blank">18. Group Button </a> -- <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%B7%CE%BD%20BOOTSTRAP/Code%20greek/18_gbuttons.html">κώδικας </a></li>
 
@@ -65,8 +64,13 @@
 
 <li><a href="./Code greek/26_navs.html" target="_blank">26. Navs </a> -- <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%B7%CE%BD%20BOOTSTRAP/Code%20greek/26_navs.html">κώδικας </a></li>
 
-<li><a href="./Code greek/27_navbar.html" target="_blank">27. NavBar </a> -- <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%B7%CE%BD%20BOOTSTRAP/Code%20greek/27_navbar.html">κώδικας </a></li>
+<li><a href="./Code greek/27_navbar.html" target="_blank">27. Μενού (Navbar) </a> -- <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%B7%CE%BD%20BOOTSTRAP/Code%20greek/27_navbar.html">κώδικας </a></li>
 
+<li><a href="./Code greek/28_forms.html" target="_blank">28. Φόρμες </a> -- <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%B7%CE%BD%20BOOTSTRAP/Code%20greek/28_forms.html">κώδικας </a></li>
+
+<li><a href="./Code greek/29_inpbuttons.html" target="_blank">29. Είσοδος κειμένου και Κουμπιά </a> -- <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%B7%CE%BD%20BOOTSTRAP/Code%20greek/29_inpbuttons.html">κώδικας </a></li>
+
+<li><a href="./Code greek/30_carousel.html" target="_blank">30. Carousel</a> -- <a href="https://github.com/ksakkas/Learn-Create-Site/blob/master/%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%B7%CE%BD%20BOOTSTRAP/Code%20greek/30_carousel.html">κώδικας </a></li>
 
 </ul>
 </body>
