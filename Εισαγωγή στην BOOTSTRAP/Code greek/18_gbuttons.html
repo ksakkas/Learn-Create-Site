@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="gr">
+<html lang="en">
 <head>
   <title>DIT Bootstrap Example</title>
   <meta charset="utf-8">
@@ -11,16 +11,22 @@
 </head>
 <body>
 
-<div class="jumbotron">
-  <div class="container">
-    <h1>Σημαντική Ανακοίνωση</h1>      
-    <p>.................................</p>
-  </div>
-</div>
-
 <div class="container">
-  <p>Απλό κείμενο</p>      
-  <p>.........</p>      
+  <h2>Nesting Button Groups</h2>
+  <p>Nest button groups to create dropdown menus:</p>
+  <div class="btn-group">
+    <button type="button" class="btn btn-primary">DIT</button>
+    <button type="button" class="btn btn-primary">UOI</button>
+    <div class="btn-group">
+      <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+      DIT/UOI
+      </button>
+      <div class="dropdown-menu">
+        <a class="dropdown-item" href="#">Department</a>
+        <a class="dropdown-item" href="#">Students</a>
+      </div>
+    </div>
+  </div>
 </div>
 
 </body>
