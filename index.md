@@ -36,6 +36,8 @@
 <h2> Εργαστήριο Πρωτόκολλα & Αρχιτεκτονικές Δικτύων </h2>
 <ul>
 <li><a href="./Ασκήσεις%20HTML">Ασκήσεις HTML</a></li>
+<li><a href="./form_r_l">Φόρμες (eshop)</a></li>
+
 </ul>
 
 <hr style="height:2px;border-width:0;color:gray;background-color: #008080">
