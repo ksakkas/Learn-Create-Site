@@ -36,7 +36,7 @@
 <h2> Εργαστήριο Πρωτόκολλα & Αρχιτεκτονικές Δικτύων </h2>
 <ul>
 <li><a href="./Ασκήσεις%20HTML">Ασκήσεις HTML</a></li>
-<li><a href="./form_r_l">Φόρμες (eshop)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Create-Site/tree/master/form_r_l">Φόρμες (eshop)</a></li>
 
 </ul>
 
